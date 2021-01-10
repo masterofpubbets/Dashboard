@@ -42,43 +42,17 @@ Partial Class frmHome
         Dim GalleryItem14 As DevExpress.XtraBars.Ribbon.GalleryItem = New DevExpress.XtraBars.Ribbon.GalleryItem()
         Dim GalleryItem15 As DevExpress.XtraBars.Ribbon.GalleryItem = New DevExpress.XtraBars.Ribbon.GalleryItem()
         Dim GalleryItem16 As DevExpress.XtraBars.Ribbon.GalleryItem = New DevExpress.XtraBars.Ribbon.GalleryItem()
-        Dim GalleryItemGroup3 As DevExpress.XtraBars.Ribbon.GalleryItemGroup = New DevExpress.XtraBars.Ribbon.GalleryItemGroup()
         Dim GalleryItem17 As DevExpress.XtraBars.Ribbon.GalleryItem = New DevExpress.XtraBars.Ribbon.GalleryItem()
         Dim GalleryItem18 As DevExpress.XtraBars.Ribbon.GalleryItem = New DevExpress.XtraBars.Ribbon.GalleryItem()
         Dim GalleryItem19 As DevExpress.XtraBars.Ribbon.GalleryItem = New DevExpress.XtraBars.Ribbon.GalleryItem()
         Dim GalleryItem20 As DevExpress.XtraBars.Ribbon.GalleryItem = New DevExpress.XtraBars.Ribbon.GalleryItem()
         Dim GalleryItem21 As DevExpress.XtraBars.Ribbon.GalleryItem = New DevExpress.XtraBars.Ribbon.GalleryItem()
         Dim GalleryItem22 As DevExpress.XtraBars.Ribbon.GalleryItem = New DevExpress.XtraBars.Ribbon.GalleryItem()
-        Dim GalleryItem23 As DevExpress.XtraBars.Ribbon.GalleryItem = New DevExpress.XtraBars.Ribbon.GalleryItem()
-        Dim GalleryItem24 As DevExpress.XtraBars.Ribbon.GalleryItem = New DevExpress.XtraBars.Ribbon.GalleryItem()
-        Dim GalleryItem25 As DevExpress.XtraBars.Ribbon.GalleryItem = New DevExpress.XtraBars.Ribbon.GalleryItem()
-        Dim GalleryItem26 As DevExpress.XtraBars.Ribbon.GalleryItem = New DevExpress.XtraBars.Ribbon.GalleryItem()
-        Dim GalleryItem27 As DevExpress.XtraBars.Ribbon.GalleryItem = New DevExpress.XtraBars.Ribbon.GalleryItem()
-        Dim GalleryItem28 As DevExpress.XtraBars.Ribbon.GalleryItem = New DevExpress.XtraBars.Ribbon.GalleryItem()
-        Dim GalleryItem29 As DevExpress.XtraBars.Ribbon.GalleryItem = New DevExpress.XtraBars.Ribbon.GalleryItem()
-        Dim GalleryItem30 As DevExpress.XtraBars.Ribbon.GalleryItem = New DevExpress.XtraBars.Ribbon.GalleryItem()
-        Dim GalleryItem31 As DevExpress.XtraBars.Ribbon.GalleryItem = New DevExpress.XtraBars.Ribbon.GalleryItem()
-        Dim GalleryItem32 As DevExpress.XtraBars.Ribbon.GalleryItem = New DevExpress.XtraBars.Ribbon.GalleryItem()
-        Dim GalleryItem33 As DevExpress.XtraBars.Ribbon.GalleryItem = New DevExpress.XtraBars.Ribbon.GalleryItem()
-        Dim GalleryItem34 As DevExpress.XtraBars.Ribbon.GalleryItem = New DevExpress.XtraBars.Ribbon.GalleryItem()
-        Dim GalleryItem35 As DevExpress.XtraBars.Ribbon.GalleryItem = New DevExpress.XtraBars.Ribbon.GalleryItem()
-        Dim GalleryItem36 As DevExpress.XtraBars.Ribbon.GalleryItem = New DevExpress.XtraBars.Ribbon.GalleryItem()
-        Dim GalleryItem37 As DevExpress.XtraBars.Ribbon.GalleryItem = New DevExpress.XtraBars.Ribbon.GalleryItem()
-        Dim GalleryItem38 As DevExpress.XtraBars.Ribbon.GalleryItem = New DevExpress.XtraBars.Ribbon.GalleryItem()
-        Dim GalleryItem39 As DevExpress.XtraBars.Ribbon.GalleryItem = New DevExpress.XtraBars.Ribbon.GalleryItem()
-        Dim GalleryItem40 As DevExpress.XtraBars.Ribbon.GalleryItem = New DevExpress.XtraBars.Ribbon.GalleryItem()
-        Dim GalleryItem41 As DevExpress.XtraBars.Ribbon.GalleryItem = New DevExpress.XtraBars.Ribbon.GalleryItem()
-        Dim GalleryItem42 As DevExpress.XtraBars.Ribbon.GalleryItem = New DevExpress.XtraBars.Ribbon.GalleryItem()
+        Dim GalleryItemGroup3 As DevExpress.XtraBars.Ribbon.GalleryItemGroup = New DevExpress.XtraBars.Ribbon.GalleryItemGroup()
         Dim GalleryItemGroup4 As DevExpress.XtraBars.Ribbon.GalleryItemGroup = New DevExpress.XtraBars.Ribbon.GalleryItemGroup()
-        Dim GalleryItem43 As DevExpress.XtraBars.Ribbon.GalleryItem = New DevExpress.XtraBars.Ribbon.GalleryItem()
-        Dim GalleryItem44 As DevExpress.XtraBars.Ribbon.GalleryItem = New DevExpress.XtraBars.Ribbon.GalleryItem()
-        Dim GalleryItem45 As DevExpress.XtraBars.Ribbon.GalleryItem = New DevExpress.XtraBars.Ribbon.GalleryItem()
-        Dim GalleryItem46 As DevExpress.XtraBars.Ribbon.GalleryItem = New DevExpress.XtraBars.Ribbon.GalleryItem()
-        Dim GalleryItem47 As DevExpress.XtraBars.Ribbon.GalleryItem = New DevExpress.XtraBars.Ribbon.GalleryItem()
-        Dim GalleryItem48 As DevExpress.XtraBars.Ribbon.GalleryItem = New DevExpress.XtraBars.Ribbon.GalleryItem()
-        Dim GalleryItem49 As DevExpress.XtraBars.Ribbon.GalleryItem = New DevExpress.XtraBars.Ribbon.GalleryItem()
-        Dim GalleryItem50 As DevExpress.XtraBars.Ribbon.GalleryItem = New DevExpress.XtraBars.Ribbon.GalleryItem()
         Dim GalleryItemGroup5 As DevExpress.XtraBars.Ribbon.GalleryItemGroup = New DevExpress.XtraBars.Ribbon.GalleryItemGroup()
+        Dim GalleryItem23 As DevExpress.XtraBars.Ribbon.GalleryItem = New DevExpress.XtraBars.Ribbon.GalleryItem()
+        Dim SkinPaddingEdges1 As DevExpress.Skins.SkinPaddingEdges = New DevExpress.Skins.SkinPaddingEdges()
         Dim GalleryItemGroup6 As DevExpress.XtraBars.Ribbon.GalleryItemGroup = New DevExpress.XtraBars.Ribbon.GalleryItemGroup()
         Dim ChartLegendInsideTopLeftHorizontalGalleryItem1 As DevExpress.DashboardWin.Bars.ChartLegendInsideTopLeftHorizontalGalleryItem = New DevExpress.DashboardWin.Bars.ChartLegendInsideTopLeftHorizontalGalleryItem()
         Dim ChartLegendInsideTopCenterHorizontalGalleryItem1 As DevExpress.DashboardWin.Bars.ChartLegendInsideTopCenterHorizontalGalleryItem = New DevExpress.DashboardWin.Bars.ChartLegendInsideTopCenterHorizontalGalleryItem()
@@ -784,13 +758,14 @@ Partial Class frmHome
         Me.DataSourceFilteringRibbonPageGroup1 = New DevExpress.DashboardWin.Bars.DataSourceFilteringRibbonPageGroup()
         Me.ViewRibbonPage1 = New DevExpress.DashboardWin.Bars.ViewRibbonPage()
         Me.SkinsRibbonPageGroup1 = New DevExpress.DashboardWin.Bars.SkinsRibbonPageGroup()
-        Me.DashboardBarController1 = New DevExpress.DashboardWin.Bars.DashboardBarController()
-        Me.TextBoxEditorBarController1 = New DevExpress.DashboardWin.Bars.TextBoxEditorBarController()
+        Me.DashboardBarController1 = New DevExpress.DashboardWin.Bars.DashboardBarController(Me.components)
+        Me.TextBoxEditorBarController1 = New DevExpress.DashboardWin.Bars.TextBoxEditorBarController(Me.components)
         CType(Me.RibbonControl1, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.DashboardBackstageViewControl1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.DashboardBackstageViewControl1.SuspendLayout()
         CType(Me.DashboardBarAndDockingController1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.BackstageViewClientControl1.SuspendLayout()
+        CType(Me.DashboardDesigner1, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.DashboardPopupMenu1, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.RepositoryItemSpinEdit1, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.RepositoryItemFontEdit1, System.ComponentModel.ISupportInitialize).BeginInit()
@@ -804,7 +779,8 @@ Partial Class frmHome
         '
         'StylesRibbonPageGroup1
         '
-        Me.StylesRibbonPageGroup1.Glyph = CType(resources.GetObject("StylesRibbonPageGroup1.Glyph"), System.Drawing.Image)
+        Me.StylesRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
+        Me.StylesRibbonPageGroup1.ImageOptions.Image = CType(resources.GetObject("StylesRibbonPageGroup1.ImageOptions.Image"), System.Drawing.Image)
         Me.StylesRibbonPageGroup1.ItemLinks.Add(Me.GalleryChangeStyleItem1)
         Me.StylesRibbonPageGroup1.Name = "StylesRibbonPageGroup1"
         '
@@ -823,10 +799,10 @@ Partial Class frmHome
         'RibbonControl1
         '
         Me.RibbonControl1.ApplicationButtonDropDownControl = Me.DashboardBackstageViewControl1
-        Me.RibbonControl1.ApplicationIcon = Global.Dashboard.My.Resources.Resources.plogo
+        Me.RibbonControl1.ApplicationButtonImageOptions.Image = Global.Dashboard.My.Resources.Resources.Cat
         Me.RibbonControl1.Controller = Me.DashboardBarAndDockingController1
         Me.RibbonControl1.ExpandCollapseItem.Id = 0
-        Me.RibbonControl1.Items.AddRange(New DevExpress.XtraBars.BarItem() {Me.RibbonControl1.ExpandCollapseItem, Me.FileNewBarItem1, Me.FileOpenBarItem1, Me.FileSaveBarItem1, Me.FileSaveAsBarItem1, Me.QuickAccessUndoBarItem1, Me.QuickAccessRedoBarItem1, Me.UndoBarItem1, Me.RedoBarItem1, Me.NewDataSourceBarItem1, Me.EditSqlConnectionBarItem1, Me.EditOlapConnectionBarItem1, Me.EditObjectDataSourceBarItem1, Me.EditExcelDataSourceBarItem1, Me.EditEFDataSourceBarItem1, Me.EditExtractOptionsBarItem1, Me.RenameDataSourceBarItem1, Me.DeleteDataSourceBarItem1, Me.ServerModeBarItem1, Me.UpateDataExtractBarItem1, Me.AddCalculatedFieldBarItem1, Me.AddQueryBarItem1, Me.EditQueryBarItem1, Me.RenameQueryBarItem1, Me.EditQueryFilterBarItem1, Me.DeleteQueryBarItem1, Me.EditExtractSourceConnectionBarItem1, Me.EditExtractSourceBarItem1, Me.EditExtractSourceQueryBarItem1, Me.EditDataSourceFilterBarItem1, Me.ClearDataSourceFilterBarItem1, Me.InsertPivotBarItem1, Me.InsertGridBarItem1, Me.InsertChartBarItem1, Me.InsertScatterChartBarItem1, Me.InsertPiesBarItem1, Me.InsertGaugesBarItem1, Me.InsertCardsBarItem1, Me.InsertChoroplethMapBarItem1, Me.InsertGeoPointMapBarSubItem1, Me.InsertGeoPointMapBarItem1, Me.InsertBubbleMapBarItem1, Me.InsertPieMapBarItem1, Me.InsertRangeFilterBarItem1, Me.InsertFilterElementSubItem1, Me.InsertComboBoxBarItem1, Me.InsertListBoxBarItem1, Me.InsertTreeViewBarItem1, Me.InsertImagesBarSubItem1, Me.InsertImageBarItem1, Me.InsertBoundImageBarItem1, Me.InsertTextBoxBarItem1, Me.InsertGroupBarItem1, Me.DuplicateItemBarItem1, Me.DeleteItemBarItem1, Me.ConvertDashboardItemTypeBarItem1, Me.ConvertToPivotBarItem1, Me.ConvertToGridBarItem1, Me.ConvertToChartBarItem1, Me.ConvertToScatterChartBarItem1, Me.ConvertToPieBarItem1, Me.ConvertToGaugeBarItem1, Me.ConvertToCardBarItem1, Me.ConvertToChoroplethMapBarItem1, Me.ConvertToBoundImageBarItem1, Me.ConvertToTextBoxBarItem1, Me.ConvertToGeoPointMapBarItem1, Me.ConvertToBubbleMapBarItem1, Me.ConvertToPieMapBarItem1, Me.ConvertGeoPointMapBaseBarItem1, Me.ConvertToRangeFilterBarItem1, Me.ConvertToComboBoxBarItem1, Me.ConvertToListBoxBarItem1, Me.ConvertToTreeViewBarItem1, Me.ConvertToFilterElementsBaseBarItem1, Me.RemoveDataItemsBarItem1, Me.TransposeItemBarItem1, Me.EditRulesBarItem1, Me.DeleteGroupBarItem1, Me.DashboardTitleBarItem1, Me.SetCurrencyCultureBarItem1, Me.DashboardColorSchemeBarItem1, Me.DashboardParametersBarItem1, Me.DashboardAutomaticUpdatesBarItem1, Me.UpdateDataBarItem1, Me.DashboardSkinsBarItem1, Me.EditFilterBarItem1, Me.ClearFilterBarItem1, Me.MasterFilterBarItem1, Me.MultipleValuesMasterFilterBarItem1, Me.DrillDownBarItem1, Me.GroupMasterFilterBarItem1, Me.GroupIgnoreMasterFilterBarItem1, Me.IgnoreMasterFiltersBarItem1, Me.CrossDataSourceFilteringBarItem1, Me.ChartTargetDimensionsArgumentsBarItem1, Me.ChartTargetDimensionsSeriesBarItem1, Me.ChartTargetDimensionsPointsBarItem1, Me.PieTargetDimensionsArgumentsBarItem1, Me.PieTargetDimensionsSeriesBarItem1, Me.PieTargetDimensionsPointsBarItem1, Me.GeoPointMapClusterizationBarItem1, Me.ShowItemCaptionBarItem1, Me.EditItemNamesBarItem1, Me.ContentAutoArrangeBarItem1, Me.ContentArrangeInColumnsBarItem1, Me.ContentArrangeInRowsBarItem1, Me.ContentArrangementCountBarItem1, Me.GridHorizontalLinesBarItem1, Me.GridVerticalLinesBarItem1, Me.GridBandedRowsBarItem1, Me.GridMergeCellsBarItem1, Me.GridColumnHeadersBarItem1, Me.GridWordWrapBarItem1, Me.GridAutoFitToContentsColumnWidthModeBarItem1, Me.GridAutoFitToGridColumnWidthModeBarItem1, Me.ManualGridColumnWidthModeBarItem1, Me.ChartRotateBarItem1, Me.ChartXAxisSettingsBarItem1, Me.ChartYAxisSettingsBarItem1, Me.ScatterChartRotateBarItem1, Me.ScatterChartXAxisSettingsBarItem1, Me.ScatterChartYAxisSettingsBarItem1, Me.ScatterChartPointLabelOptionsBarItem1, Me.ChartShowLegendBarItem1, Me.GalleryChartLegendPositionItem1, Me.ScatterChartShowLegendBarItem1, Me.GalleryScatterChartLegendPositionItem1, Me.GalleryChartSeriesTypeItem1, Me.PieLabelsDataLabelsBarItem1, Me.PieLabelsDataLabelsNoneBarItem1, Me.PieLabelsDataLabelArgumentBarItem1, Me.PieLabelsDataLabelsValueBarItem1, Me.PieLabelsDataLabelsArgumentAndValueBarItem1, Me.PieLabelsDataLabelsPercentBarItem1, Me.PieLabelsDataLabelsValueAndPercentBarItem1, Me.PieLabelsDataLabelsArgumentAndPercentBarItem1, Me.PieLabelsDataLabelsArgumentValueAndPercentBarItem1, Me.PieTooltipsBarItem1, Me.PieLabelsTooltipsNoneBarItem1, Me.PieLabelsTooltipsArgumentBarItem1, Me.PieLabelsTooltipsValueBarItem1, Me.PieLabelsTooltipsArgumentAndValueBarItem1, Me.PieLabelsTooltipsPercentBarItem1, Me.PieLabelsTooltipsValueAndPercentBarItem1, Me.PieLabelsTooltipsArgumentAndPercentBarItem1, Me.PieLabelsTooltipsArgumentValueAndPercentBarItem1, Me.PieStylePieBarItem1, Me.PieStyleDonutBarItem1, Me.PieShowCaptionsBarItem1, Me.GaugeStyleFullCircularBarItem1, Me.GaugeStyleHalfCircularBarItem1, Me.GaugeStyleLeftQuarterCircularBarItem1, Me.GaugeStyleRightQuarterCircularBarItem1, Me.GaugeStyleThreeForthCircularBarItem1, Me.GaugeStyleLinearHorizontalBarItem1, Me.GaugeStyleLinearVerticalBarItem1, Me.GaugeShowCaptionsBarItem1, Me.ImageLoadBarItem1, Me.ImageImportBarItem1, Me.ImageSizeModeClipBarItem1, Me.ImageSizeModeStretchBarItem1, Me.ImageSizeModeSqueezeBarItem1, Me.ImageSizeModeZoomBarItem1, Me.ImageAlignmentTopLeftBarItem1, Me.ImageAlignmentCenterLeftBarItem1, Me.ImageAlignmentBottomLeftBarItem1, Me.ImageAlignmentTopCenterBarItem1, Me.ImageAlignmentCenterCenterBarItem1, Me.ImageAlignmentBottomCenterBarItem1, Me.ImageAlignmentTopRightBarItem1, Me.ImageAlignmentCenterRightBarItem1, Me.ImageAlignmentBottomRightBarItem1, Me.TextBoxEditTextBarItem1, Me.TextBoxInsertFieldBarItem1, Me.GalleryRangeFilterSeriesTypeItem1, Me.RangeFilterEditDateTimePeriodsBarItem1, Me.PivotInitialStateBarItem1, Me.PivotAutoExpandColumnBarItem1, Me.PivotAutoExpandRowBarItem1, Me.PivotShowTotalsBarItem1, Me.PivotShowColumnTotalsBarItem1, Me.PivotShowRowTotalsBarItem1, Me.PivotShowGrandTotalsBarItem1, Me.PivotShowColumnGrandTotalsBarItem1, Me.PivotShowRowGrandTotalsBarItem1, Me.ComboBoxStandardTypeBarItem1, Me.ComboBoxCheckedTypeBarItem1, Me.ListBoxCheckedTypeBarItem1, Me.ListBoxRadioTypeBarItem1, Me.TreeViewAutoExpandBarItem1, Me.FilterElementShowAllValueBarItem1, Me.MapLoadBarItem1, Me.MapImportBarItem1, Me.MapDefaultShapefileBarItem1, Me.MapWorldCountriesBarItem1, Me.MapEuropeBarItem1, Me.MapAsiaBarItem1, Me.MapNorthAmericaBarItem1, Me.MapSouthAmericaBarItem1, Me.MapAfricaBarItem1, Me.MapUSABarItem1, Me.MapCanadaBarItem1, Me.MapLockNavigationBarItem1, Me.MapFullExtentBarItem1, Me.ChoroplethMapShapeLabelsAttributeBarItem1, Me.MapShapeTitleAttributeBarItem1, Me.MapShowLegendBarItem1, Me.GalleryMapLegendPositionItem1, Me.ChangeWeightedLegendTypeBarItem1, Me.WeightedLegendNoneBarItem1, Me.WeightedLegendLinearBarItem1, Me.WeightedLegendNestedBarItem1, Me.GalleryWeightedLegendPositionItem1, Me.PieMapIsWeightedBarItem1, Me.UseGlobalColorsBarItem1, Me.UseLocalColorsBarItem1, Me.EditActualColorsBarItem1, Me.UndoItem1, Me.RedoItem1, Me.FileOpenItem1, Me.PasteItem1, Me.CutItem1, Me.CopyItem1, Me.PasteSpecialItem1, Me.BarButtonGroup1, Me.ChangeFontNameItem1, Me.ChangeFontSizeItem1, Me.FontSizeIncreaseItem1, Me.FontSizeDecreaseItem1, Me.BarButtonGroup2, Me.ToggleFontBoldItem1, Me.ToggleFontItalicItem1, Me.ToggleFontUnderlineItem1, Me.ToggleFontDoubleUnderlineItem1, Me.ToggleFontStrikeoutItem1, Me.ToggleFontDoubleStrikeoutItem1, Me.ToggleFontSuperscriptItem1, Me.ToggleFontSubscriptItem1, Me.BarButtonGroup3, Me.ChangeFontColorItem1, Me.ChangeFontHighlightColorItem1, Me.ChangeTextCaseItem1, Me.MakeTextUpperCaseItem1, Me.MakeTextLowerCaseItem1, Me.CapitalizeEachWordCaseItem1, Me.ToggleTextCaseItem1, Me.ClearFormattingItem1, Me.BarButtonGroup4, Me.ToggleBulletedListItem1, Me.ToggleNumberingListItem1, Me.ToggleMultiLevelListItem1, Me.BarButtonGroup5, Me.DecreaseIndentItem1, Me.IncreaseIndentItem1, Me.BarButtonGroup6, Me.ToggleParagraphAlignmentLeftItem1, Me.ToggleParagraphAlignmentCenterItem1, Me.ToggleParagraphAlignmentRightItem1, Me.ToggleParagraphAlignmentJustifyItem1, Me.ToggleShowWhitespaceItem1, Me.BarButtonGroup7, Me.ChangeParagraphLineSpacingItem1, Me.SetSingleParagraphSpacingItem1, Me.SetSesquialteralParagraphSpacingItem1, Me.SetDoubleParagraphSpacingItem1, Me.ShowLineSpacingFormItem1, Me.AddSpacingBeforeParagraphItem1, Me.RemoveSpacingBeforeParagraphItem1, Me.AddSpacingAfterParagraphItem1, Me.RemoveSpacingAfterParagraphItem1, Me.ChangeParagraphBackColorItem1, Me.GalleryChangeStyleItem1, Me.FindItem1, Me.ReplaceItem1, Me.InsertTableItem1, Me.InsertPictureItem1, Me.InsertFloatingPictureItem1, Me.InsertBookmarkItem1, Me.InsertHyperlinkItem1, Me.InsertSymbolItem1, Me.ChangePageColorItem1, Me.ToggleFirstRowItem1, Me.ToggleLastRowItem1, Me.ToggleBandedRowsItem1, Me.ToggleFirstColumnItem1, Me.ToggleLastColumnItem1, Me.ToggleBandedColumnsItem1, Me.GalleryChangeTableStyleItem1, Me.ChangeTableBorderLineStyleItem1, Me.ChangeTableBorderLineWeightItem1, Me.ChangeTableBorderColorItem1, Me.ChangeTableBordersItem1, Me.ToggleTableCellsBottomBorderItem1, Me.ToggleTableCellsTopBorderItem1, Me.ToggleTableCellsLeftBorderItem1, Me.ToggleTableCellsRightBorderItem1, Me.ResetTableCellsAllBordersItem1, Me.ToggleTableCellsAllBordersItem1, Me.ToggleTableCellsOutsideBorderItem1, Me.ToggleTableCellsInsideBorderItem1, Me.ToggleTableCellsInsideHorizontalBorderItem1, Me.ToggleTableCellsInsideVerticalBorderItem1, Me.ToggleShowTableGridLinesItem1, Me.ChangeTableCellsShadingItem1, Me.SelectTableElementsItem1, Me.SelectTableCellItem1, Me.SelectTableColumnItem1, Me.SelectTableRowItem1, Me.SelectTableItem1, Me.ShowTablePropertiesFormItem1, Me.DeleteTableElementsItem1, Me.ShowDeleteTableCellsFormItem1, Me.DeleteTableColumnsItem1, Me.DeleteTableRowsItem1, Me.DeleteTableItem1, Me.InsertTableRowAboveItem1, Me.InsertTableRowBelowItem1, Me.InsertTableColumnToLeftItem1, Me.InsertTableColumnToRightItem1, Me.MergeTableCellsItem1, Me.ShowSplitTableCellsForm1, Me.SplitTableItem1, Me.ToggleTableAutoFitItem1, Me.ToggleTableAutoFitContentsItem1, Me.ToggleTableAutoFitWindowItem1, Me.ToggleTableFixedColumnWidthItem1, Me.ToggleTableCellsTopLeftAlignmentItem1, Me.ToggleTableCellsMiddleLeftAlignmentItem1, Me.ToggleTableCellsBottomLeftAlignmentItem1, Me.ToggleTableCellsTopCenterAlignmentItem1, Me.ToggleTableCellsMiddleCenterAlignmentItem1, Me.ToggleTableCellsBottomCenterAlignmentItem1, Me.ToggleTableCellsTopRightAlignmentItem1, Me.ToggleTableCellsMiddleRightAlignmentItem1, Me.ToggleTableCellsBottomRightAlignmentItem1, Me.ShowTableOptionsFormItem1, Me.ChangeFloatingObjectFillColorItem1, Me.ChangeFloatingObjectOutlineColorItem1, Me.ChangeFloatingObjectOutlineWeightItem1, Me.ChangeFloatingObjectTextWrapTypeItem1, Me.SetFloatingObjectSquareTextWrapTypeItem1, Me.SetFloatingObjectTightTextWrapTypeItem1, Me.SetFloatingObjectThroughTextWrapTypeItem1, Me.SetFloatingObjectTopAndBottomTextWrapTypeItem1, Me.SetFloatingObjectBehindTextWrapTypeItem1, Me.SetFloatingObjectInFrontOfTextWrapTypeItem1, Me.ChangeFloatingObjectAlignmentItem1, Me.SetFloatingObjectTopLeftAlignmentItem1, Me.SetFloatingObjectTopCenterAlignmentItem1, Me.SetFloatingObjectTopRightAlignmentItem1, Me.SetFloatingObjectMiddleLeftAlignmentItem1, Me.SetFloatingObjectMiddleCenterAlignmentItem1, Me.SetFloatingObjectMiddleRightAlignmentItem1, Me.SetFloatingObjectBottomLeftAlignmentItem1, Me.SetFloatingObjectBottomCenterAlignmentItem1, Me.SetFloatingObjectBottomRightAlignmentItem1, Me.FloatingObjectBringForwardSubItem1, Me.FloatingObjectBringForwardItem1, Me.FloatingObjectBringToFrontItem1, Me.FloatingObjectBringInFrontOfTextItem1, Me.FloatingObjectSendBackwardSubItem1, Me.FloatingObjectSendBackwardItem1, Me.FloatingObjectSendToBackItem1, Me.FloatingObjectSendBehindTextItem1})
+        Me.RibbonControl1.Items.AddRange(New DevExpress.XtraBars.BarItem() {Me.RibbonControl1.ExpandCollapseItem, Me.RibbonControl1.SearchEditItem, Me.FileNewBarItem1, Me.FileOpenBarItem1, Me.FileSaveBarItem1, Me.FileSaveAsBarItem1, Me.QuickAccessUndoBarItem1, Me.QuickAccessRedoBarItem1, Me.UndoBarItem1, Me.RedoBarItem1, Me.NewDataSourceBarItem1, Me.EditSqlConnectionBarItem1, Me.EditOlapConnectionBarItem1, Me.EditObjectDataSourceBarItem1, Me.EditExcelDataSourceBarItem1, Me.EditEFDataSourceBarItem1, Me.EditExtractOptionsBarItem1, Me.RenameDataSourceBarItem1, Me.DeleteDataSourceBarItem1, Me.ServerModeBarItem1, Me.UpateDataExtractBarItem1, Me.AddCalculatedFieldBarItem1, Me.AddQueryBarItem1, Me.EditQueryBarItem1, Me.RenameQueryBarItem1, Me.EditQueryFilterBarItem1, Me.DeleteQueryBarItem1, Me.EditExtractSourceConnectionBarItem1, Me.EditExtractSourceBarItem1, Me.EditExtractSourceQueryBarItem1, Me.EditDataSourceFilterBarItem1, Me.ClearDataSourceFilterBarItem1, Me.InsertPivotBarItem1, Me.InsertGridBarItem1, Me.InsertChartBarItem1, Me.InsertScatterChartBarItem1, Me.InsertPiesBarItem1, Me.InsertGaugesBarItem1, Me.InsertCardsBarItem1, Me.InsertChoroplethMapBarItem1, Me.InsertGeoPointMapBarSubItem1, Me.InsertGeoPointMapBarItem1, Me.InsertBubbleMapBarItem1, Me.InsertPieMapBarItem1, Me.InsertRangeFilterBarItem1, Me.InsertFilterElementSubItem1, Me.InsertComboBoxBarItem1, Me.InsertListBoxBarItem1, Me.InsertTreeViewBarItem1, Me.InsertImagesBarSubItem1, Me.InsertImageBarItem1, Me.InsertBoundImageBarItem1, Me.InsertTextBoxBarItem1, Me.InsertGroupBarItem1, Me.DuplicateItemBarItem1, Me.DeleteItemBarItem1, Me.ConvertDashboardItemTypeBarItem1, Me.ConvertToPivotBarItem1, Me.ConvertToGridBarItem1, Me.ConvertToChartBarItem1, Me.ConvertToScatterChartBarItem1, Me.ConvertToPieBarItem1, Me.ConvertToGaugeBarItem1, Me.ConvertToCardBarItem1, Me.ConvertToChoroplethMapBarItem1, Me.ConvertToBoundImageBarItem1, Me.ConvertToTextBoxBarItem1, Me.ConvertToGeoPointMapBarItem1, Me.ConvertToBubbleMapBarItem1, Me.ConvertToPieMapBarItem1, Me.ConvertGeoPointMapBaseBarItem1, Me.ConvertToRangeFilterBarItem1, Me.ConvertToComboBoxBarItem1, Me.ConvertToListBoxBarItem1, Me.ConvertToTreeViewBarItem1, Me.ConvertToFilterElementsBaseBarItem1, Me.RemoveDataItemsBarItem1, Me.TransposeItemBarItem1, Me.EditRulesBarItem1, Me.DeleteGroupBarItem1, Me.DashboardTitleBarItem1, Me.SetCurrencyCultureBarItem1, Me.DashboardColorSchemeBarItem1, Me.DashboardParametersBarItem1, Me.DashboardAutomaticUpdatesBarItem1, Me.UpdateDataBarItem1, Me.DashboardSkinsBarItem1, Me.EditFilterBarItem1, Me.ClearFilterBarItem1, Me.MasterFilterBarItem1, Me.MultipleValuesMasterFilterBarItem1, Me.DrillDownBarItem1, Me.GroupMasterFilterBarItem1, Me.GroupIgnoreMasterFilterBarItem1, Me.IgnoreMasterFiltersBarItem1, Me.CrossDataSourceFilteringBarItem1, Me.ChartTargetDimensionsArgumentsBarItem1, Me.ChartTargetDimensionsSeriesBarItem1, Me.ChartTargetDimensionsPointsBarItem1, Me.PieTargetDimensionsArgumentsBarItem1, Me.PieTargetDimensionsSeriesBarItem1, Me.PieTargetDimensionsPointsBarItem1, Me.GeoPointMapClusterizationBarItem1, Me.ShowItemCaptionBarItem1, Me.EditItemNamesBarItem1, Me.ContentAutoArrangeBarItem1, Me.ContentArrangeInColumnsBarItem1, Me.ContentArrangeInRowsBarItem1, Me.ContentArrangementCountBarItem1, Me.GridHorizontalLinesBarItem1, Me.GridVerticalLinesBarItem1, Me.GridBandedRowsBarItem1, Me.GridMergeCellsBarItem1, Me.GridColumnHeadersBarItem1, Me.GridWordWrapBarItem1, Me.GridAutoFitToContentsColumnWidthModeBarItem1, Me.GridAutoFitToGridColumnWidthModeBarItem1, Me.ManualGridColumnWidthModeBarItem1, Me.ChartRotateBarItem1, Me.ChartXAxisSettingsBarItem1, Me.ChartYAxisSettingsBarItem1, Me.ScatterChartRotateBarItem1, Me.ScatterChartXAxisSettingsBarItem1, Me.ScatterChartYAxisSettingsBarItem1, Me.ScatterChartPointLabelOptionsBarItem1, Me.ChartShowLegendBarItem1, Me.GalleryChartLegendPositionItem1, Me.ScatterChartShowLegendBarItem1, Me.GalleryScatterChartLegendPositionItem1, Me.GalleryChartSeriesTypeItem1, Me.PieLabelsDataLabelsBarItem1, Me.PieLabelsDataLabelsNoneBarItem1, Me.PieLabelsDataLabelArgumentBarItem1, Me.PieLabelsDataLabelsValueBarItem1, Me.PieLabelsDataLabelsArgumentAndValueBarItem1, Me.PieLabelsDataLabelsPercentBarItem1, Me.PieLabelsDataLabelsValueAndPercentBarItem1, Me.PieLabelsDataLabelsArgumentAndPercentBarItem1, Me.PieLabelsDataLabelsArgumentValueAndPercentBarItem1, Me.PieTooltipsBarItem1, Me.PieLabelsTooltipsNoneBarItem1, Me.PieLabelsTooltipsArgumentBarItem1, Me.PieLabelsTooltipsValueBarItem1, Me.PieLabelsTooltipsArgumentAndValueBarItem1, Me.PieLabelsTooltipsPercentBarItem1, Me.PieLabelsTooltipsValueAndPercentBarItem1, Me.PieLabelsTooltipsArgumentAndPercentBarItem1, Me.PieLabelsTooltipsArgumentValueAndPercentBarItem1, Me.PieStylePieBarItem1, Me.PieStyleDonutBarItem1, Me.PieShowCaptionsBarItem1, Me.GaugeStyleFullCircularBarItem1, Me.GaugeStyleHalfCircularBarItem1, Me.GaugeStyleLeftQuarterCircularBarItem1, Me.GaugeStyleRightQuarterCircularBarItem1, Me.GaugeStyleThreeForthCircularBarItem1, Me.GaugeStyleLinearHorizontalBarItem1, Me.GaugeStyleLinearVerticalBarItem1, Me.GaugeShowCaptionsBarItem1, Me.ImageLoadBarItem1, Me.ImageImportBarItem1, Me.ImageSizeModeClipBarItem1, Me.ImageSizeModeStretchBarItem1, Me.ImageSizeModeSqueezeBarItem1, Me.ImageSizeModeZoomBarItem1, Me.ImageAlignmentTopLeftBarItem1, Me.ImageAlignmentCenterLeftBarItem1, Me.ImageAlignmentBottomLeftBarItem1, Me.ImageAlignmentTopCenterBarItem1, Me.ImageAlignmentCenterCenterBarItem1, Me.ImageAlignmentBottomCenterBarItem1, Me.ImageAlignmentTopRightBarItem1, Me.ImageAlignmentCenterRightBarItem1, Me.ImageAlignmentBottomRightBarItem1, Me.TextBoxEditTextBarItem1, Me.TextBoxInsertFieldBarItem1, Me.GalleryRangeFilterSeriesTypeItem1, Me.RangeFilterEditDateTimePeriodsBarItem1, Me.PivotInitialStateBarItem1, Me.PivotAutoExpandColumnBarItem1, Me.PivotAutoExpandRowBarItem1, Me.PivotShowTotalsBarItem1, Me.PivotShowColumnTotalsBarItem1, Me.PivotShowRowTotalsBarItem1, Me.PivotShowGrandTotalsBarItem1, Me.PivotShowColumnGrandTotalsBarItem1, Me.PivotShowRowGrandTotalsBarItem1, Me.ComboBoxStandardTypeBarItem1, Me.ComboBoxCheckedTypeBarItem1, Me.ListBoxCheckedTypeBarItem1, Me.ListBoxRadioTypeBarItem1, Me.TreeViewAutoExpandBarItem1, Me.FilterElementShowAllValueBarItem1, Me.MapLoadBarItem1, Me.MapImportBarItem1, Me.MapDefaultShapefileBarItem1, Me.MapWorldCountriesBarItem1, Me.MapEuropeBarItem1, Me.MapAsiaBarItem1, Me.MapNorthAmericaBarItem1, Me.MapSouthAmericaBarItem1, Me.MapAfricaBarItem1, Me.MapUSABarItem1, Me.MapCanadaBarItem1, Me.MapLockNavigationBarItem1, Me.MapFullExtentBarItem1, Me.ChoroplethMapShapeLabelsAttributeBarItem1, Me.MapShapeTitleAttributeBarItem1, Me.MapShowLegendBarItem1, Me.GalleryMapLegendPositionItem1, Me.ChangeWeightedLegendTypeBarItem1, Me.WeightedLegendNoneBarItem1, Me.WeightedLegendLinearBarItem1, Me.WeightedLegendNestedBarItem1, Me.GalleryWeightedLegendPositionItem1, Me.PieMapIsWeightedBarItem1, Me.UseGlobalColorsBarItem1, Me.UseLocalColorsBarItem1, Me.EditActualColorsBarItem1, Me.UndoItem1, Me.RedoItem1, Me.FileOpenItem1, Me.PasteItem1, Me.CutItem1, Me.CopyItem1, Me.PasteSpecialItem1, Me.BarButtonGroup1, Me.ChangeFontNameItem1, Me.ChangeFontSizeItem1, Me.FontSizeIncreaseItem1, Me.FontSizeDecreaseItem1, Me.BarButtonGroup2, Me.ToggleFontBoldItem1, Me.ToggleFontItalicItem1, Me.ToggleFontUnderlineItem1, Me.ToggleFontDoubleUnderlineItem1, Me.ToggleFontStrikeoutItem1, Me.ToggleFontDoubleStrikeoutItem1, Me.ToggleFontSuperscriptItem1, Me.ToggleFontSubscriptItem1, Me.BarButtonGroup3, Me.ChangeFontColorItem1, Me.ChangeFontHighlightColorItem1, Me.ChangeTextCaseItem1, Me.MakeTextUpperCaseItem1, Me.MakeTextLowerCaseItem1, Me.CapitalizeEachWordCaseItem1, Me.ToggleTextCaseItem1, Me.ClearFormattingItem1, Me.BarButtonGroup4, Me.ToggleBulletedListItem1, Me.ToggleNumberingListItem1, Me.ToggleMultiLevelListItem1, Me.BarButtonGroup5, Me.DecreaseIndentItem1, Me.IncreaseIndentItem1, Me.BarButtonGroup6, Me.ToggleParagraphAlignmentLeftItem1, Me.ToggleParagraphAlignmentCenterItem1, Me.ToggleParagraphAlignmentRightItem1, Me.ToggleParagraphAlignmentJustifyItem1, Me.ToggleShowWhitespaceItem1, Me.BarButtonGroup7, Me.ChangeParagraphLineSpacingItem1, Me.SetSingleParagraphSpacingItem1, Me.SetSesquialteralParagraphSpacingItem1, Me.SetDoubleParagraphSpacingItem1, Me.ShowLineSpacingFormItem1, Me.AddSpacingBeforeParagraphItem1, Me.RemoveSpacingBeforeParagraphItem1, Me.AddSpacingAfterParagraphItem1, Me.RemoveSpacingAfterParagraphItem1, Me.ChangeParagraphBackColorItem1, Me.GalleryChangeStyleItem1, Me.FindItem1, Me.ReplaceItem1, Me.InsertTableItem1, Me.InsertPictureItem1, Me.InsertFloatingPictureItem1, Me.InsertBookmarkItem1, Me.InsertHyperlinkItem1, Me.InsertSymbolItem1, Me.ChangePageColorItem1, Me.ToggleFirstRowItem1, Me.ToggleLastRowItem1, Me.ToggleBandedRowsItem1, Me.ToggleFirstColumnItem1, Me.ToggleLastColumnItem1, Me.ToggleBandedColumnsItem1, Me.GalleryChangeTableStyleItem1, Me.ChangeTableBorderLineStyleItem1, Me.ChangeTableBorderLineWeightItem1, Me.ChangeTableBorderColorItem1, Me.ChangeTableBordersItem1, Me.ToggleTableCellsBottomBorderItem1, Me.ToggleTableCellsTopBorderItem1, Me.ToggleTableCellsLeftBorderItem1, Me.ToggleTableCellsRightBorderItem1, Me.ResetTableCellsAllBordersItem1, Me.ToggleTableCellsAllBordersItem1, Me.ToggleTableCellsOutsideBorderItem1, Me.ToggleTableCellsInsideBorderItem1, Me.ToggleTableCellsInsideHorizontalBorderItem1, Me.ToggleTableCellsInsideVerticalBorderItem1, Me.ToggleShowTableGridLinesItem1, Me.ChangeTableCellsShadingItem1, Me.SelectTableElementsItem1, Me.SelectTableCellItem1, Me.SelectTableColumnItem1, Me.SelectTableRowItem1, Me.SelectTableItem1, Me.ShowTablePropertiesFormItem1, Me.DeleteTableElementsItem1, Me.ShowDeleteTableCellsFormItem1, Me.DeleteTableColumnsItem1, Me.DeleteTableRowsItem1, Me.DeleteTableItem1, Me.InsertTableRowAboveItem1, Me.InsertTableRowBelowItem1, Me.InsertTableColumnToLeftItem1, Me.InsertTableColumnToRightItem1, Me.MergeTableCellsItem1, Me.ShowSplitTableCellsForm1, Me.SplitTableItem1, Me.ToggleTableAutoFitItem1, Me.ToggleTableAutoFitContentsItem1, Me.ToggleTableAutoFitWindowItem1, Me.ToggleTableFixedColumnWidthItem1, Me.ToggleTableCellsTopLeftAlignmentItem1, Me.ToggleTableCellsMiddleLeftAlignmentItem1, Me.ToggleTableCellsBottomLeftAlignmentItem1, Me.ToggleTableCellsTopCenterAlignmentItem1, Me.ToggleTableCellsMiddleCenterAlignmentItem1, Me.ToggleTableCellsBottomCenterAlignmentItem1, Me.ToggleTableCellsTopRightAlignmentItem1, Me.ToggleTableCellsMiddleRightAlignmentItem1, Me.ToggleTableCellsBottomRightAlignmentItem1, Me.ShowTableOptionsFormItem1, Me.ChangeFloatingObjectFillColorItem1, Me.ChangeFloatingObjectOutlineColorItem1, Me.ChangeFloatingObjectOutlineWeightItem1, Me.ChangeFloatingObjectTextWrapTypeItem1, Me.SetFloatingObjectSquareTextWrapTypeItem1, Me.SetFloatingObjectTightTextWrapTypeItem1, Me.SetFloatingObjectThroughTextWrapTypeItem1, Me.SetFloatingObjectTopAndBottomTextWrapTypeItem1, Me.SetFloatingObjectBehindTextWrapTypeItem1, Me.SetFloatingObjectInFrontOfTextWrapTypeItem1, Me.ChangeFloatingObjectAlignmentItem1, Me.SetFloatingObjectTopLeftAlignmentItem1, Me.SetFloatingObjectTopCenterAlignmentItem1, Me.SetFloatingObjectTopRightAlignmentItem1, Me.SetFloatingObjectMiddleLeftAlignmentItem1, Me.SetFloatingObjectMiddleCenterAlignmentItem1, Me.SetFloatingObjectMiddleRightAlignmentItem1, Me.SetFloatingObjectBottomLeftAlignmentItem1, Me.SetFloatingObjectBottomCenterAlignmentItem1, Me.SetFloatingObjectBottomRightAlignmentItem1, Me.FloatingObjectBringForwardSubItem1, Me.FloatingObjectBringForwardItem1, Me.FloatingObjectBringToFrontItem1, Me.FloatingObjectBringInFrontOfTextItem1, Me.FloatingObjectSendBackwardSubItem1, Me.FloatingObjectSendBackwardItem1, Me.FloatingObjectSendToBackItem1, Me.FloatingObjectSendBehindTextItem1})
         Me.RibbonControl1.Location = New System.Drawing.Point(0, 0)
         Me.RibbonControl1.MaxItemId = 365
         Me.RibbonControl1.Name = "RibbonControl1"
@@ -837,11 +813,10 @@ Partial Class frmHome
         Me.RibbonControl1.QuickToolbarItemLinks.Add(Me.QuickAccessRedoBarItem1)
         Me.RibbonControl1.QuickToolbarItemLinks.Add(Me.UpdateDataBarItem1)
         Me.RibbonControl1.RepositoryItems.AddRange(New DevExpress.XtraEditors.Repository.RepositoryItem() {Me.RepositoryItemSpinEdit1, Me.RepositoryItemFontEdit1, Me.RepositoryItemRichEditFontSizeEdit1, Me.RepositoryItemBorderLineStyle1, Me.RepositoryItemBorderLineWeight1, Me.RepositoryItemFloatingObjectOutlineWeight1})
-        Me.RibbonControl1.Size = New System.Drawing.Size(1184, 143)
+        Me.RibbonControl1.Size = New System.Drawing.Size(1434, 158)
         '
         'DashboardBackstageViewControl1
         '
-        Me.DashboardBackstageViewControl1.ColorScheme = DevExpress.XtraBars.Ribbon.RibbonControlColorScheme.Yellow
         Me.DashboardBackstageViewControl1.Controller = Me.DashboardBarAndDockingController1
         Me.DashboardBackstageViewControl1.Controls.Add(Me.BackstageViewClientControl1)
         Me.DashboardBackstageViewControl1.DashboardRecentTab = Me.DashboardBackstageRecentTab1
@@ -850,45 +825,42 @@ Partial Class frmHome
         Me.DashboardBackstageViewControl1.Items.Add(Me.DashboardBackstageSaveButton1)
         Me.DashboardBackstageViewControl1.Items.Add(Me.DashboardBackstageSaveAsButton1)
         Me.DashboardBackstageViewControl1.Items.Add(Me.DashboardBackstageRecentTab1)
-        Me.DashboardBackstageViewControl1.Location = New System.Drawing.Point(0, 0)
+        Me.DashboardBackstageViewControl1.Location = New System.Drawing.Point(0, 2)
         Me.DashboardBackstageViewControl1.Name = "DashboardBackstageViewControl1"
         Me.DashboardBackstageViewControl1.OwnerControl = Me.RibbonControl1
         Me.DashboardBackstageViewControl1.SelectedTab = Me.DashboardBackstageRecentTab1
         Me.DashboardBackstageViewControl1.SelectedTabIndex = 4
         Me.DashboardBackstageViewControl1.Size = New System.Drawing.Size(240, 150)
         Me.DashboardBackstageViewControl1.TabIndex = 2
-        '
-        'DashboardBarAndDockingController1
-        '
-        Me.DashboardBarAndDockingController1.PropertiesBar.DefaultGlyphSize = New System.Drawing.Size(16, 16)
-        Me.DashboardBarAndDockingController1.PropertiesBar.DefaultLargeGlyphSize = New System.Drawing.Size(32, 32)
+        Me.DashboardBackstageViewControl1.VisibleInDesignTime = True
         '
         'BackstageViewClientControl1
         '
         Me.BackstageViewClientControl1.Controls.Add(Me.RecentDashboardsControl1)
-        Me.BackstageViewClientControl1.Location = New System.Drawing.Point(132, 0)
+        Me.BackstageViewClientControl1.Location = New System.Drawing.Point(132, 63)
         Me.BackstageViewClientControl1.Name = "BackstageViewClientControl1"
-        Me.BackstageViewClientControl1.Size = New System.Drawing.Size(91, 150)
+        Me.BackstageViewClientControl1.Size = New System.Drawing.Size(90, 86)
         Me.BackstageViewClientControl1.TabIndex = 1
         '
         'RecentDashboardsControl1
         '
+        Me.RecentDashboardsControl1.Appearance.ForeColor = System.Drawing.Color.Transparent
+        Me.RecentDashboardsControl1.Appearance.Options.UseForeColor = True
         Me.RecentDashboardsControl1.Dock = System.Windows.Forms.DockStyle.Fill
-        Me.RecentDashboardsControl1.ForeColor = System.Drawing.Color.Transparent
         Me.RecentDashboardsControl1.Location = New System.Drawing.Point(0, 0)
         Me.RecentDashboardsControl1.Name = "RecentDashboardsControl1"
         Me.RecentDashboardsControl1.ServiceProvider = Me.DashboardDesigner1
-        Me.RecentDashboardsControl1.Size = New System.Drawing.Size(91, 150)
+        Me.RecentDashboardsControl1.Size = New System.Drawing.Size(90, 86)
         Me.RecentDashboardsControl1.TabIndex = 0
         '
         'DashboardDesigner1
         '
         Me.DashboardDesigner1.Dock = System.Windows.Forms.DockStyle.Fill
-        Me.DashboardDesigner1.Location = New System.Drawing.Point(0, 143)
+        Me.DashboardDesigner1.Location = New System.Drawing.Point(0, 158)
         Me.DashboardDesigner1.MenuManager = Me.RibbonControl1
         Me.DashboardDesigner1.Name = "DashboardDesigner1"
         Me.DashboardDesigner1.PopupMenu = Me.DashboardPopupMenu1
-        Me.DashboardDesigner1.Size = New System.Drawing.Size(1184, 519)
+        Me.DashboardDesigner1.Size = New System.Drawing.Size(1434, 504)
         Me.DashboardDesigner1.TabIndex = 1
         '
         'DashboardPopupMenu1
@@ -1171,25 +1143,25 @@ Partial Class frmHome
         '
         'DashboardBackstageNewButton1
         '
-        Me.DashboardBackstageNewButton1.Glyph = CType(resources.GetObject("DashboardBackstageNewButton1.Glyph"), System.Drawing.Image)
+        Me.DashboardBackstageNewButton1.ImageOptions.ItemNormal.Image = CType(resources.GetObject("DashboardBackstageNewButton1.ImageOptions.ItemNormal.Image"), System.Drawing.Image)
         Me.DashboardBackstageNewButton1.Name = "DashboardBackstageNewButton1"
         Me.DashboardBackstageNewButton1.ServiceProvider = Me.DashboardDesigner1
         '
         'DashboardBackstageOpenButton1
         '
-        Me.DashboardBackstageOpenButton1.Glyph = CType(resources.GetObject("DashboardBackstageOpenButton1.Glyph"), System.Drawing.Image)
+        Me.DashboardBackstageOpenButton1.ImageOptions.ItemNormal.Image = CType(resources.GetObject("DashboardBackstageOpenButton1.ImageOptions.ItemNormal.Image"), System.Drawing.Image)
         Me.DashboardBackstageOpenButton1.Name = "DashboardBackstageOpenButton1"
         Me.DashboardBackstageOpenButton1.ServiceProvider = Me.DashboardDesigner1
         '
         'DashboardBackstageSaveButton1
         '
-        Me.DashboardBackstageSaveButton1.Glyph = CType(resources.GetObject("DashboardBackstageSaveButton1.Glyph"), System.Drawing.Image)
+        Me.DashboardBackstageSaveButton1.ImageOptions.ItemNormal.Image = CType(resources.GetObject("DashboardBackstageSaveButton1.ImageOptions.ItemNormal.Image"), System.Drawing.Image)
         Me.DashboardBackstageSaveButton1.Name = "DashboardBackstageSaveButton1"
         Me.DashboardBackstageSaveButton1.ServiceProvider = Me.DashboardDesigner1
         '
         'DashboardBackstageSaveAsButton1
         '
-        Me.DashboardBackstageSaveAsButton1.Glyph = CType(resources.GetObject("DashboardBackstageSaveAsButton1.Glyph"), System.Drawing.Image)
+        Me.DashboardBackstageSaveAsButton1.ImageOptions.ItemNormal.Image = CType(resources.GetObject("DashboardBackstageSaveAsButton1.ImageOptions.ItemNormal.Image"), System.Drawing.Image)
         Me.DashboardBackstageSaveAsButton1.Name = "DashboardBackstageSaveAsButton1"
         Me.DashboardBackstageSaveAsButton1.ServiceProvider = Me.DashboardDesigner1
         '
@@ -1493,272 +1465,143 @@ Partial Class frmHome
         Me.DashboardSkinsBarItem1.Gallery.ColumnCount = 4
         Me.DashboardSkinsBarItem1.Gallery.FixedHoverImageSize = False
         GalleryItemGroup2.Caption = "Standard Skins"
-        GalleryItem1.Caption = "DevExpress Style"
+        GalleryItem1.Caption = "Basic"
         GalleryItem1.Checked = True
-        GalleryItem1.Hint = "DevExpress Style"
-        GalleryItem1.HoverImage = CType(resources.GetObject("GalleryItem1.HoverImage"), System.Drawing.Image)
-        GalleryItem1.Image = CType(resources.GetObject("GalleryItem1.Image"), System.Drawing.Image)
-        GalleryItem1.Tag = "DevExpress Style"
-        GalleryItem2.Caption = "DevExpress Dark Style"
-        GalleryItem2.Hint = "DevExpress Dark Style"
-        GalleryItem2.HoverImage = CType(resources.GetObject("GalleryItem2.HoverImage"), System.Drawing.Image)
-        GalleryItem2.Image = CType(resources.GetObject("GalleryItem2.Image"), System.Drawing.Image)
-        GalleryItem2.Tag = "DevExpress Dark Style"
-        GalleryItem3.Caption = "Office 2016 Colorful"
-        GalleryItem3.Hint = "Office 2016 Colorful"
-        GalleryItem3.HoverImage = CType(resources.GetObject("GalleryItem3.HoverImage"), System.Drawing.Image)
-        GalleryItem3.Image = CType(resources.GetObject("GalleryItem3.Image"), System.Drawing.Image)
-        GalleryItem3.Tag = "Office 2016 Colorful"
-        GalleryItem4.Caption = "Office 2016 Dark"
-        GalleryItem4.Hint = "Office 2016 Dark"
-        GalleryItem4.HoverImage = CType(resources.GetObject("GalleryItem4.HoverImage"), System.Drawing.Image)
-        GalleryItem4.Image = CType(resources.GetObject("GalleryItem4.Image"), System.Drawing.Image)
-        GalleryItem4.Tag = "Office 2016 Dark"
-        GalleryItem5.Caption = "Office 2016 Black"
-        GalleryItem5.Hint = "Office 2016 Black"
-        GalleryItem5.HoverImage = CType(resources.GetObject("GalleryItem5.HoverImage"), System.Drawing.Image)
-        GalleryItem5.Image = CType(resources.GetObject("GalleryItem5.Image"), System.Drawing.Image)
-        GalleryItem5.Tag = "Office 2016 Black"
-        GalleryItem6.Caption = "Office 2013 White"
-        GalleryItem6.Hint = "Office 2013 White"
-        GalleryItem6.HoverImage = CType(resources.GetObject("GalleryItem6.HoverImage"), System.Drawing.Image)
-        GalleryItem6.Image = CType(resources.GetObject("GalleryItem6.Image"), System.Drawing.Image)
-        GalleryItem6.Tag = "Office 2013"
-        GalleryItem7.Caption = "Office 2013 Dark Gray"
-        GalleryItem7.Hint = "Office 2013 Dark Gray"
-        GalleryItem7.HoverImage = CType(resources.GetObject("GalleryItem7.HoverImage"), System.Drawing.Image)
-        GalleryItem7.Image = CType(resources.GetObject("GalleryItem7.Image"), System.Drawing.Image)
-        GalleryItem7.Tag = "Office 2013 Dark Gray"
-        GalleryItem8.Caption = "Office 2013 Light Gray"
-        GalleryItem8.Hint = "Office 2013 Light Gray"
-        GalleryItem8.HoverImage = CType(resources.GetObject("GalleryItem8.HoverImage"), System.Drawing.Image)
-        GalleryItem8.Image = CType(resources.GetObject("GalleryItem8.Image"), System.Drawing.Image)
-        GalleryItem8.Tag = "Office 2013 Light Gray"
-        GalleryItem9.Caption = "Office 2010 Blue"
-        GalleryItem9.Hint = "Office 2010 Blue"
-        GalleryItem9.HoverImage = CType(resources.GetObject("GalleryItem9.HoverImage"), System.Drawing.Image)
-        GalleryItem9.Image = CType(resources.GetObject("GalleryItem9.Image"), System.Drawing.Image)
-        GalleryItem9.Tag = "Office 2010 Blue"
-        GalleryItem10.Caption = "Office 2010 Black"
-        GalleryItem10.Hint = "Office 2010 Black"
-        GalleryItem10.HoverImage = CType(resources.GetObject("GalleryItem10.HoverImage"), System.Drawing.Image)
-        GalleryItem10.Image = CType(resources.GetObject("GalleryItem10.Image"), System.Drawing.Image)
-        GalleryItem10.Tag = "Office 2010 Black"
-        GalleryItem11.Caption = "Office 2010 Silver"
-        GalleryItem11.Hint = "Office 2010 Silver"
-        GalleryItem11.HoverImage = CType(resources.GetObject("GalleryItem11.HoverImage"), System.Drawing.Image)
-        GalleryItem11.Image = CType(resources.GetObject("GalleryItem11.Image"), System.Drawing.Image)
-        GalleryItem11.Tag = "Office 2010 Silver"
-        GalleryItem12.Caption = "Visual Studio 2013 Blue"
-        GalleryItem12.Hint = "Visual Studio 2013 Blue"
-        GalleryItem12.HoverImage = CType(resources.GetObject("GalleryItem12.HoverImage"), System.Drawing.Image)
-        GalleryItem12.Image = CType(resources.GetObject("GalleryItem12.Image"), System.Drawing.Image)
-        GalleryItem12.Tag = "Visual Studio 2013 Blue"
-        GalleryItem13.Caption = "Visual Studio 2013 Dark"
-        GalleryItem13.Hint = "Visual Studio 2013 Dark"
-        GalleryItem13.HoverImage = CType(resources.GetObject("GalleryItem13.HoverImage"), System.Drawing.Image)
-        GalleryItem13.Image = CType(resources.GetObject("GalleryItem13.Image"), System.Drawing.Image)
-        GalleryItem13.Tag = "Visual Studio 2013 Dark"
-        GalleryItem14.Caption = "Visual Studio 2013 Light"
-        GalleryItem14.Hint = "Visual Studio 2013 Light"
-        GalleryItem14.HoverImage = CType(resources.GetObject("GalleryItem14.HoverImage"), System.Drawing.Image)
-        GalleryItem14.Image = CType(resources.GetObject("GalleryItem14.Image"), System.Drawing.Image)
-        GalleryItem14.Tag = "Visual Studio 2013 Light"
-        GalleryItem15.Caption = "Seven Classic"
-        GalleryItem15.Hint = "Seven Classic"
-        GalleryItem15.HoverImage = CType(resources.GetObject("GalleryItem15.HoverImage"), System.Drawing.Image)
-        GalleryItem15.Image = CType(resources.GetObject("GalleryItem15.Image"), System.Drawing.Image)
-        GalleryItem15.Tag = "Seven Classic"
-        GalleryItem16.Caption = "Visual Studio 2010"
-        GalleryItem16.Hint = "Visual Studio 2010"
-        GalleryItem16.HoverImage = CType(resources.GetObject("GalleryItem16.HoverImage"), System.Drawing.Image)
-        GalleryItem16.Image = CType(resources.GetObject("GalleryItem16.Image"), System.Drawing.Image)
-        GalleryItem16.Tag = "VS2010"
-        GalleryItemGroup2.Items.AddRange(New DevExpress.XtraBars.Ribbon.GalleryItem() {GalleryItem1, GalleryItem2, GalleryItem3, GalleryItem4, GalleryItem5, GalleryItem6, GalleryItem7, GalleryItem8, GalleryItem9, GalleryItem10, GalleryItem11, GalleryItem12, GalleryItem13, GalleryItem14, GalleryItem15, GalleryItem16})
+        GalleryItem1.Hint = "Basic"
+        GalleryItem1.ImageOptions.SvgImage = CType(resources.GetObject("resource.SvgImage"), DevExpress.Utils.Svg.SvgImage)
+        GalleryItem1.Tag = "Basic"
+        GalleryItem1.Value = "Basic"
+        GalleryItem2.Caption = "The Bezier"
+        GalleryItem2.Hint = "The Bezier"
+        GalleryItem2.ImageOptions.SvgImage = CType(resources.GetObject("resource.SvgImage1"), DevExpress.Utils.Svg.SvgImage)
+        GalleryItem2.Tag = "The Bezier"
+        GalleryItem2.Value = "The Bezier"
+        GalleryItem3.Caption = "Office 2019 Colorful"
+        GalleryItem3.Hint = "Office 2019 Colorful"
+        GalleryItem3.ImageOptions.SvgImage = CType(resources.GetObject("resource.SvgImage2"), DevExpress.Utils.Svg.SvgImage)
+        GalleryItem3.Tag = "Office 2019 Colorful"
+        GalleryItem3.Value = "Office 2019 Colorful"
+        GalleryItem4.Caption = "Office 2019 Black"
+        GalleryItem4.Hint = "Office 2019 Black"
+        GalleryItem4.ImageOptions.SvgImage = CType(resources.GetObject("resource.SvgImage3"), DevExpress.Utils.Svg.SvgImage)
+        GalleryItem4.Tag = "Office 2019 Black"
+        GalleryItem4.Value = "Office 2019 Black"
+        GalleryItem5.Caption = "Office 2019 White"
+        GalleryItem5.Hint = "Office 2019 White"
+        GalleryItem5.ImageOptions.SvgImage = CType(resources.GetObject("resource.SvgImage4"), DevExpress.Utils.Svg.SvgImage)
+        GalleryItem5.Tag = "Office 2019 White"
+        GalleryItem5.Value = "Office 2019 White"
+        GalleryItem6.Caption = "Office 2019 Dark"
+        GalleryItem6.Hint = "Office 2019 Dark"
+        GalleryItem6.ImageOptions.SvgImage = CType(resources.GetObject("resource.SvgImage5"), DevExpress.Utils.Svg.SvgImage)
+        GalleryItem6.Tag = "Office 2019 Dark Gray"
+        GalleryItem6.Value = "Office 2019 Dark Gray"
+        GalleryItem7.Caption = "DevExpress Style"
+        GalleryItem7.Hint = "DevExpress Style"
+        GalleryItem7.ImageOptions.SvgImage = CType(resources.GetObject("resource.SvgImage6"), DevExpress.Utils.Svg.SvgImage)
+        GalleryItem7.Tag = "DevExpress Style"
+        GalleryItem7.Value = "DevExpress Style"
+        GalleryItem8.Caption = "DevExpress Dark Style"
+        GalleryItem8.Hint = "DevExpress Dark Style"
+        GalleryItem8.ImageOptions.SvgImage = CType(resources.GetObject("resource.SvgImage7"), DevExpress.Utils.Svg.SvgImage)
+        GalleryItem8.Tag = "DevExpress Dark Style"
+        GalleryItem8.Value = "DevExpress Dark Style"
+        GalleryItem9.Caption = "Office 2016 Colorful"
+        GalleryItem9.Hint = "Office 2016 Colorful"
+        GalleryItem9.ImageOptions.SvgImage = CType(resources.GetObject("resource.SvgImage8"), DevExpress.Utils.Svg.SvgImage)
+        GalleryItem9.Tag = "Office 2016 Colorful"
+        GalleryItem9.Value = "Office 2016 Colorful"
+        GalleryItem10.Caption = "Office 2016 Dark"
+        GalleryItem10.Hint = "Office 2016 Dark"
+        GalleryItem10.ImageOptions.SvgImage = CType(resources.GetObject("resource.SvgImage9"), DevExpress.Utils.Svg.SvgImage)
+        GalleryItem10.Tag = "Office 2016 Dark"
+        GalleryItem10.Value = "Office 2016 Dark"
+        GalleryItem11.Caption = "Office 2016 Black"
+        GalleryItem11.Hint = "Office 2016 Black"
+        GalleryItem11.ImageOptions.SvgImage = CType(resources.GetObject("resource.SvgImage10"), DevExpress.Utils.Svg.SvgImage)
+        GalleryItem11.Tag = "Office 2016 Black"
+        GalleryItem11.Value = "Office 2016 Black"
+        GalleryItem12.Caption = "Office 2013 White"
+        GalleryItem12.Hint = "Office 2013 White"
+        GalleryItem12.ImageOptions.SvgImage = CType(resources.GetObject("resource.SvgImage11"), DevExpress.Utils.Svg.SvgImage)
+        GalleryItem12.Tag = "Office 2013"
+        GalleryItem12.Value = "Office 2013"
+        GalleryItem13.Caption = "Office 2013 Dark Gray"
+        GalleryItem13.Hint = "Office 2013 Dark Gray"
+        GalleryItem13.ImageOptions.SvgImage = CType(resources.GetObject("resource.SvgImage12"), DevExpress.Utils.Svg.SvgImage)
+        GalleryItem13.Tag = "Office 2013 Dark Gray"
+        GalleryItem13.Value = "Office 2013 Dark Gray"
+        GalleryItem14.Caption = "Office 2013 Light Gray"
+        GalleryItem14.Hint = "Office 2013 Light Gray"
+        GalleryItem14.ImageOptions.SvgImage = CType(resources.GetObject("resource.SvgImage13"), DevExpress.Utils.Svg.SvgImage)
+        GalleryItem14.Tag = "Office 2013 Light Gray"
+        GalleryItem14.Value = "Office 2013 Light Gray"
+        GalleryItem15.Caption = "Office 2010 Blue"
+        GalleryItem15.Hint = "Office 2010 Blue"
+        GalleryItem15.ImageOptions.SvgImage = CType(resources.GetObject("resource.SvgImage14"), DevExpress.Utils.Svg.SvgImage)
+        GalleryItem15.Tag = "Office 2010 Blue"
+        GalleryItem15.Value = "Office 2010 Blue"
+        GalleryItem16.Caption = "Office 2010 Black"
+        GalleryItem16.Hint = "Office 2010 Black"
+        GalleryItem16.ImageOptions.SvgImage = CType(resources.GetObject("resource.SvgImage15"), DevExpress.Utils.Svg.SvgImage)
+        GalleryItem16.Tag = "Office 2010 Black"
+        GalleryItem16.Value = "Office 2010 Black"
+        GalleryItem17.Caption = "Office 2010 Silver"
+        GalleryItem17.Hint = "Office 2010 Silver"
+        GalleryItem17.ImageOptions.SvgImage = CType(resources.GetObject("resource.SvgImage16"), DevExpress.Utils.Svg.SvgImage)
+        GalleryItem17.Tag = "Office 2010 Silver"
+        GalleryItem17.Value = "Office 2010 Silver"
+        GalleryItem18.Caption = "Visual Studio 2013 Blue"
+        GalleryItem18.Hint = "Visual Studio 2013 Blue"
+        GalleryItem18.ImageOptions.SvgImage = CType(resources.GetObject("resource.SvgImage17"), DevExpress.Utils.Svg.SvgImage)
+        GalleryItem18.Tag = "Visual Studio 2013 Blue"
+        GalleryItem18.Value = "Visual Studio 2013 Blue"
+        GalleryItem19.Caption = "Visual Studio 2013 Dark"
+        GalleryItem19.Hint = "Visual Studio 2013 Dark"
+        GalleryItem19.ImageOptions.SvgImage = CType(resources.GetObject("resource.SvgImage18"), DevExpress.Utils.Svg.SvgImage)
+        GalleryItem19.Tag = "Visual Studio 2013 Dark"
+        GalleryItem19.Value = "Visual Studio 2013 Dark"
+        GalleryItem20.Caption = "Visual Studio 2013 Light"
+        GalleryItem20.Hint = "Visual Studio 2013 Light"
+        GalleryItem20.ImageOptions.SvgImage = CType(resources.GetObject("resource.SvgImage19"), DevExpress.Utils.Svg.SvgImage)
+        GalleryItem20.Tag = "Visual Studio 2013 Light"
+        GalleryItem20.Value = "Visual Studio 2013 Light"
+        GalleryItem21.Caption = "Seven Classic"
+        GalleryItem21.Hint = "Seven Classic"
+        GalleryItem21.ImageOptions.SvgImage = CType(resources.GetObject("resource.SvgImage20"), DevExpress.Utils.Svg.SvgImage)
+        GalleryItem21.Tag = "Seven Classic"
+        GalleryItem21.Value = "Seven Classic"
+        GalleryItem22.Caption = "Visual Studio 2010"
+        GalleryItem22.Hint = "Visual Studio 2010"
+        GalleryItem22.ImageOptions.SvgImage = CType(resources.GetObject("resource.SvgImage21"), DevExpress.Utils.Svg.SvgImage)
+        GalleryItem22.Tag = "VS2010"
+        GalleryItem22.Value = "VS2010"
+        GalleryItemGroup2.Items.AddRange(New DevExpress.XtraBars.Ribbon.GalleryItem() {GalleryItem1, GalleryItem2, GalleryItem3, GalleryItem4, GalleryItem5, GalleryItem6, GalleryItem7, GalleryItem8, GalleryItem9, GalleryItem10, GalleryItem11, GalleryItem12, GalleryItem13, GalleryItem14, GalleryItem15, GalleryItem16, GalleryItem17, GalleryItem18, GalleryItem19, GalleryItem20, GalleryItem21, GalleryItem22})
         GalleryItemGroup3.Caption = "Bonus Skins"
-        GalleryItem17.Caption = "Black"
-        GalleryItem17.Hint = "Black"
-        GalleryItem17.HoverImage = CType(resources.GetObject("GalleryItem17.HoverImage"), System.Drawing.Image)
-        GalleryItem17.Image = CType(resources.GetObject("GalleryItem17.Image"), System.Drawing.Image)
-        GalleryItem17.Tag = "Black"
-        GalleryItem18.Caption = "Blue"
-        GalleryItem18.Hint = "Blue"
-        GalleryItem18.HoverImage = CType(resources.GetObject("GalleryItem18.HoverImage"), System.Drawing.Image)
-        GalleryItem18.Image = CType(resources.GetObject("GalleryItem18.Image"), System.Drawing.Image)
-        GalleryItem18.Tag = "Blue"
-        GalleryItem19.Caption = "Caramel"
-        GalleryItem19.Hint = "Caramel"
-        GalleryItem19.HoverImage = CType(resources.GetObject("GalleryItem19.HoverImage"), System.Drawing.Image)
-        GalleryItem19.Image = CType(resources.GetObject("GalleryItem19.Image"), System.Drawing.Image)
-        GalleryItem19.Tag = "Caramel"
-        GalleryItem20.Caption = "Coffee"
-        GalleryItem20.Hint = "Coffee"
-        GalleryItem20.HoverImage = CType(resources.GetObject("GalleryItem20.HoverImage"), System.Drawing.Image)
-        GalleryItem20.Image = CType(resources.GetObject("GalleryItem20.Image"), System.Drawing.Image)
-        GalleryItem20.Tag = "Coffee"
-        GalleryItem21.Caption = "Dark Side"
-        GalleryItem21.Hint = "Dark Side"
-        GalleryItem21.HoverImage = CType(resources.GetObject("GalleryItem21.HoverImage"), System.Drawing.Image)
-        GalleryItem21.Image = CType(resources.GetObject("GalleryItem21.Image"), System.Drawing.Image)
-        GalleryItem21.Tag = "Dark Side"
-        GalleryItem22.Caption = "Darkroom"
-        GalleryItem22.Hint = "Darkroom"
-        GalleryItem22.HoverImage = CType(resources.GetObject("GalleryItem22.HoverImage"), System.Drawing.Image)
-        GalleryItem22.Image = CType(resources.GetObject("GalleryItem22.Image"), System.Drawing.Image)
-        GalleryItem22.Tag = "Darkroom"
-        GalleryItem23.Caption = "Foggy"
-        GalleryItem23.Hint = "Foggy"
-        GalleryItem23.HoverImage = CType(resources.GetObject("GalleryItem23.HoverImage"), System.Drawing.Image)
-        GalleryItem23.Image = CType(resources.GetObject("GalleryItem23.Image"), System.Drawing.Image)
-        GalleryItem23.Tag = "Foggy"
-        GalleryItem24.Caption = "Glass Oceans"
-        GalleryItem24.Hint = "Glass Oceans"
-        GalleryItem24.HoverImage = CType(resources.GetObject("GalleryItem24.HoverImage"), System.Drawing.Image)
-        GalleryItem24.Image = CType(resources.GetObject("GalleryItem24.Image"), System.Drawing.Image)
-        GalleryItem24.Tag = "Glass Oceans"
-        GalleryItem25.Caption = "High Contrast"
-        GalleryItem25.Hint = "High Contrast"
-        GalleryItem25.HoverImage = CType(resources.GetObject("GalleryItem25.HoverImage"), System.Drawing.Image)
-        GalleryItem25.Image = CType(resources.GetObject("GalleryItem25.Image"), System.Drawing.Image)
-        GalleryItem25.Tag = "High Contrast"
-        GalleryItem26.Caption = "iMaginary"
-        GalleryItem26.Hint = "iMaginary"
-        GalleryItem26.HoverImage = CType(resources.GetObject("GalleryItem26.HoverImage"), System.Drawing.Image)
-        GalleryItem26.Image = CType(resources.GetObject("GalleryItem26.Image"), System.Drawing.Image)
-        GalleryItem26.Tag = "iMaginary"
-        GalleryItem27.Caption = "Lilian"
-        GalleryItem27.Hint = "Lilian"
-        GalleryItem27.HoverImage = CType(resources.GetObject("GalleryItem27.HoverImage"), System.Drawing.Image)
-        GalleryItem27.Image = CType(resources.GetObject("GalleryItem27.Image"), System.Drawing.Image)
-        GalleryItem27.Tag = "Lilian"
-        GalleryItem28.Caption = "Liquid Sky"
-        GalleryItem28.Hint = "Liquid Sky"
-        GalleryItem28.HoverImage = CType(resources.GetObject("GalleryItem28.HoverImage"), System.Drawing.Image)
-        GalleryItem28.Image = CType(resources.GetObject("GalleryItem28.Image"), System.Drawing.Image)
-        GalleryItem28.Tag = "Liquid Sky"
-        GalleryItem29.Caption = "London Liquid Sky"
-        GalleryItem29.Hint = "London Liquid Sky"
-        GalleryItem29.HoverImage = CType(resources.GetObject("GalleryItem29.HoverImage"), System.Drawing.Image)
-        GalleryItem29.Image = CType(resources.GetObject("GalleryItem29.Image"), System.Drawing.Image)
-        GalleryItem29.Tag = "London Liquid Sky"
-        GalleryItem30.Caption = "Metropolis"
-        GalleryItem30.Hint = "Metropolis"
-        GalleryItem30.HoverImage = CType(resources.GetObject("GalleryItem30.HoverImage"), System.Drawing.Image)
-        GalleryItem30.Image = CType(resources.GetObject("GalleryItem30.Image"), System.Drawing.Image)
-        GalleryItem30.Tag = "Metropolis"
-        GalleryItem31.Caption = "Metropolis Dark"
-        GalleryItem31.Hint = "Metropolis Dark"
-        GalleryItem31.HoverImage = CType(resources.GetObject("GalleryItem31.HoverImage"), System.Drawing.Image)
-        GalleryItem31.Image = CType(resources.GetObject("GalleryItem31.Image"), System.Drawing.Image)
-        GalleryItem31.Tag = "Metropolis Dark"
-        GalleryItem32.Caption = "Money Twins"
-        GalleryItem32.Hint = "Money Twins"
-        GalleryItem32.HoverImage = CType(resources.GetObject("GalleryItem32.HoverImage"), System.Drawing.Image)
-        GalleryItem32.Image = CType(resources.GetObject("GalleryItem32.Image"), System.Drawing.Image)
-        GalleryItem32.Tag = "Money Twins"
-        GalleryItem33.Caption = "Office 2007 Black"
-        GalleryItem33.Hint = "Office 2007 Black"
-        GalleryItem33.HoverImage = CType(resources.GetObject("GalleryItem33.HoverImage"), System.Drawing.Image)
-        GalleryItem33.Image = CType(resources.GetObject("GalleryItem33.Image"), System.Drawing.Image)
-        GalleryItem33.Tag = "Office 2007 Black"
-        GalleryItem34.Caption = "Office 2007 Blue"
-        GalleryItem34.Hint = "Office 2007 Blue"
-        GalleryItem34.HoverImage = CType(resources.GetObject("GalleryItem34.HoverImage"), System.Drawing.Image)
-        GalleryItem34.Image = CType(resources.GetObject("GalleryItem34.Image"), System.Drawing.Image)
-        GalleryItem34.Tag = "Office 2007 Blue"
-        GalleryItem35.Caption = "Office 2007 Green"
-        GalleryItem35.Hint = "Office 2007 Green"
-        GalleryItem35.HoverImage = CType(resources.GetObject("GalleryItem35.HoverImage"), System.Drawing.Image)
-        GalleryItem35.Image = CType(resources.GetObject("GalleryItem35.Image"), System.Drawing.Image)
-        GalleryItem35.Tag = "Office 2007 Green"
-        GalleryItem36.Caption = "Office 2007 Pink"
-        GalleryItem36.Hint = "Office 2007 Pink"
-        GalleryItem36.HoverImage = CType(resources.GetObject("GalleryItem36.HoverImage"), System.Drawing.Image)
-        GalleryItem36.Image = CType(resources.GetObject("GalleryItem36.Image"), System.Drawing.Image)
-        GalleryItem36.Tag = "Office 2007 Pink"
-        GalleryItem37.Caption = "Office 2007 Silver"
-        GalleryItem37.Hint = "Office 2007 Silver"
-        GalleryItem37.HoverImage = CType(resources.GetObject("GalleryItem37.HoverImage"), System.Drawing.Image)
-        GalleryItem37.Image = CType(resources.GetObject("GalleryItem37.Image"), System.Drawing.Image)
-        GalleryItem37.Tag = "Office 2007 Silver"
-        GalleryItem38.Caption = "Seven"
-        GalleryItem38.Hint = "Seven"
-        GalleryItem38.HoverImage = CType(resources.GetObject("GalleryItem38.HoverImage"), System.Drawing.Image)
-        GalleryItem38.Image = CType(resources.GetObject("GalleryItem38.Image"), System.Drawing.Image)
-        GalleryItem38.Tag = "Seven"
-        GalleryItem39.Caption = "Sharp"
-        GalleryItem39.Hint = "Sharp"
-        GalleryItem39.HoverImage = CType(resources.GetObject("GalleryItem39.HoverImage"), System.Drawing.Image)
-        GalleryItem39.Image = CType(resources.GetObject("GalleryItem39.Image"), System.Drawing.Image)
-        GalleryItem39.Tag = "Sharp"
-        GalleryItem40.Caption = "Sharp Plus"
-        GalleryItem40.Hint = "Sharp Plus"
-        GalleryItem40.HoverImage = CType(resources.GetObject("GalleryItem40.HoverImage"), System.Drawing.Image)
-        GalleryItem40.Image = CType(resources.GetObject("GalleryItem40.Image"), System.Drawing.Image)
-        GalleryItem40.Tag = "Sharp Plus"
-        GalleryItem41.Caption = "Stardust"
-        GalleryItem41.Hint = "Stardust"
-        GalleryItem41.HoverImage = CType(resources.GetObject("GalleryItem41.HoverImage"), System.Drawing.Image)
-        GalleryItem41.Image = CType(resources.GetObject("GalleryItem41.Image"), System.Drawing.Image)
-        GalleryItem41.Tag = "Stardust"
-        GalleryItem42.Caption = "The Asphalt World"
-        GalleryItem42.Hint = "The Asphalt World"
-        GalleryItem42.HoverImage = CType(resources.GetObject("GalleryItem42.HoverImage"), System.Drawing.Image)
-        GalleryItem42.Image = CType(resources.GetObject("GalleryItem42.Image"), System.Drawing.Image)
-        GalleryItem42.Tag = "The Asphalt World"
-        GalleryItemGroup3.Items.AddRange(New DevExpress.XtraBars.Ribbon.GalleryItem() {GalleryItem17, GalleryItem18, GalleryItem19, GalleryItem20, GalleryItem21, GalleryItem22, GalleryItem23, GalleryItem24, GalleryItem25, GalleryItem26, GalleryItem27, GalleryItem28, GalleryItem29, GalleryItem30, GalleryItem31, GalleryItem32, GalleryItem33, GalleryItem34, GalleryItem35, GalleryItem36, GalleryItem37, GalleryItem38, GalleryItem39, GalleryItem40, GalleryItem41, GalleryItem42})
+        GalleryItemGroup3.Visible = False
         GalleryItemGroup4.Caption = "Theme Skins"
-        GalleryItem43.Caption = "Pumpkin"
-        GalleryItem43.Hint = "Pumpkin"
-        GalleryItem43.HoverImage = CType(resources.GetObject("GalleryItem43.HoverImage"), System.Drawing.Image)
-        GalleryItem43.Image = CType(resources.GetObject("GalleryItem43.Image"), System.Drawing.Image)
-        GalleryItem43.Tag = "Pumpkin"
-        GalleryItem44.Caption = "Springtime"
-        GalleryItem44.Hint = "Springtime"
-        GalleryItem44.HoverImage = CType(resources.GetObject("GalleryItem44.HoverImage"), System.Drawing.Image)
-        GalleryItem44.Image = CType(resources.GetObject("GalleryItem44.Image"), System.Drawing.Image)
-        GalleryItem44.Tag = "Springtime"
-        GalleryItem45.Caption = "Summer"
-        GalleryItem45.Hint = "Summer"
-        GalleryItem45.HoverImage = CType(resources.GetObject("GalleryItem45.HoverImage"), System.Drawing.Image)
-        GalleryItem45.Image = CType(resources.GetObject("GalleryItem45.Image"), System.Drawing.Image)
-        GalleryItem45.Tag = "Summer 2008"
-        GalleryItem46.Caption = "Valentine"
-        GalleryItem46.Hint = "Valentine"
-        GalleryItem46.HoverImage = CType(resources.GetObject("GalleryItem46.HoverImage"), System.Drawing.Image)
-        GalleryItem46.Image = CType(resources.GetObject("GalleryItem46.Image"), System.Drawing.Image)
-        GalleryItem46.Tag = "Valentine"
-        GalleryItem47.Caption = "Xmas (Blue)"
-        GalleryItem47.Hint = "Xmas (Blue)"
-        GalleryItem47.HoverImage = CType(resources.GetObject("GalleryItem47.HoverImage"), System.Drawing.Image)
-        GalleryItem47.Image = CType(resources.GetObject("GalleryItem47.Image"), System.Drawing.Image)
-        GalleryItem47.Tag = "Xmas 2008 Blue"
-        GalleryItem48.Caption = "McSkin"
-        GalleryItem48.Hint = "McSkin"
-        GalleryItem48.HoverImage = CType(resources.GetObject("GalleryItem48.HoverImage"), System.Drawing.Image)
-        GalleryItem48.Image = CType(resources.GetObject("GalleryItem48.Image"), System.Drawing.Image)
-        GalleryItem48.Tag = "McSkin"
-        GalleryItem49.Caption = "Blueprint"
-        GalleryItem49.Hint = "Blueprint"
-        GalleryItem49.HoverImage = CType(resources.GetObject("GalleryItem49.HoverImage"), System.Drawing.Image)
-        GalleryItem49.Image = CType(resources.GetObject("GalleryItem49.Image"), System.Drawing.Image)
-        GalleryItem49.Tag = "Blueprint"
-        GalleryItem50.Caption = "Whiteprint"
-        GalleryItem50.Hint = "Whiteprint"
-        GalleryItem50.HoverImage = CType(resources.GetObject("GalleryItem50.HoverImage"), System.Drawing.Image)
-        GalleryItem50.Image = CType(resources.GetObject("GalleryItem50.Image"), System.Drawing.Image)
-        GalleryItem50.Tag = "Whiteprint"
-        GalleryItemGroup4.Items.AddRange(New DevExpress.XtraBars.Ribbon.GalleryItem() {GalleryItem43, GalleryItem44, GalleryItem45, GalleryItem46, GalleryItem47, GalleryItem48, GalleryItem49, GalleryItem50})
+        GalleryItemGroup4.Visible = False
         GalleryItemGroup5.Caption = "Custom Skins"
-        GalleryItemGroup5.Visible = False
+        GalleryItem23.Caption = "DevExpress Design"
+        GalleryItem23.Hint = "DevExpress Design"
+        GalleryItem23.ImageOptions.SvgImage = CType(resources.GetObject("resource.SvgImage22"), DevExpress.Utils.Svg.SvgImage)
+        GalleryItem23.Tag = "DevExpress Design"
+        GalleryItem23.Value = "DevExpress Design"
+        GalleryItemGroup5.Items.AddRange(New DevExpress.XtraBars.Ribbon.GalleryItem() {GalleryItem23})
         Me.DashboardSkinsBarItem1.Gallery.Groups.AddRange(New DevExpress.XtraBars.Ribbon.GalleryItemGroup() {GalleryItemGroup2, GalleryItemGroup3, GalleryItemGroup4, GalleryItemGroup5})
-        Me.DashboardSkinsBarItem1.Gallery.ImageSize = New System.Drawing.Size(32, 16)
+        Me.DashboardSkinsBarItem1.Gallery.ImageSize = New System.Drawing.Size(16, 16)
         Me.DashboardSkinsBarItem1.Gallery.ItemCheckMode = DevExpress.XtraBars.Ribbon.Gallery.ItemCheckMode.SingleRadio
         Me.DashboardSkinsBarItem1.Gallery.ItemImageLayout = DevExpress.Utils.Drawing.ImageLayoutMode.Squeeze
         Me.DashboardSkinsBarItem1.Gallery.ItemImageLocation = DevExpress.Utils.Locations.Top
-        Me.DashboardSkinsBarItem1.Glyph = CType(resources.GetObject("DashboardSkinsBarItem1.Glyph"), System.Drawing.Image)
+        SkinPaddingEdges1.Left = 8
+        SkinPaddingEdges1.Right = 8
+        Me.DashboardSkinsBarItem1.Gallery.ItemImagePadding = SkinPaddingEdges1
+        Me.DashboardSkinsBarItem1.Gallery.ScaleImages = DevExpress.Utils.DefaultBoolean.[False]
         Me.DashboardSkinsBarItem1.Id = 85
+        Me.DashboardSkinsBarItem1.ImageOptions.Image = CType(resources.GetObject("DashboardSkinsBarItem1.ImageOptions.Image"), System.Drawing.Image)
+        Me.DashboardSkinsBarItem1.ImageOptions.SvgImage = CType(resources.GetObject("DashboardSkinsBarItem1.ImageOptions.SvgImage"), DevExpress.Utils.Svg.SvgImage)
         Me.DashboardSkinsBarItem1.Name = "DashboardSkinsBarItem1"
+        Me.DashboardSkinsBarItem1.Visibility = DevExpress.XtraBars.BarItemVisibility.Never
         '
         'MasterFilterBarItem1
         '
@@ -3505,17 +3348,20 @@ Partial Class frmHome
         '
         'FilteringRibbonPageGroup1
         '
+        Me.FilteringRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.FilteringRibbonPageGroup1.ItemLinks.Add(Me.EditFilterBarItem1)
         Me.FilteringRibbonPageGroup1.ItemLinks.Add(Me.ClearFilterBarItem1)
         Me.FilteringRibbonPageGroup1.Name = "FilteringRibbonPageGroup1"
         '
         'InteractivitySettingsRibbonPageGroup1
         '
+        Me.InteractivitySettingsRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.InteractivitySettingsRibbonPageGroup1.ItemLinks.Add(Me.IgnoreMasterFiltersBarItem1)
         Me.InteractivitySettingsRibbonPageGroup1.Name = "InteractivitySettingsRibbonPageGroup1"
         '
         'PivotLayoutRibbonPageGroup1
         '
+        Me.PivotLayoutRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.PivotLayoutRibbonPageGroup1.ItemLinks.Add(Me.PivotInitialStateBarItem1)
         Me.PivotLayoutRibbonPageGroup1.ItemLinks.Add(Me.PivotShowTotalsBarItem1)
         Me.PivotLayoutRibbonPageGroup1.ItemLinks.Add(Me.PivotShowGrandTotalsBarItem1)
@@ -3529,6 +3375,7 @@ Partial Class frmHome
         '
         'CommonItemDesignRibbonPageGroup11
         '
+        Me.CommonItemDesignRibbonPageGroup11.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.CommonItemDesignRibbonPageGroup11.ItemLinks.Add(Me.ShowItemCaptionBarItem1)
         Me.CommonItemDesignRibbonPageGroup11.ItemLinks.Add(Me.EditItemNamesBarItem1)
         Me.CommonItemDesignRibbonPageGroup11.Name = "CommonItemDesignRibbonPageGroup11"
@@ -3548,12 +3395,14 @@ Partial Class frmHome
         '
         'FilteringRibbonPageGroup2
         '
+        Me.FilteringRibbonPageGroup2.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.FilteringRibbonPageGroup2.ItemLinks.Add(Me.EditFilterBarItem1)
         Me.FilteringRibbonPageGroup2.ItemLinks.Add(Me.ClearFilterBarItem1)
         Me.FilteringRibbonPageGroup2.Name = "FilteringRibbonPageGroup2"
         '
         'MasterFilterRibbonPageGroup1
         '
+        Me.MasterFilterRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.MasterFilterRibbonPageGroup1.ItemLinks.Add(Me.MasterFilterBarItem1)
         Me.MasterFilterRibbonPageGroup1.ItemLinks.Add(Me.MultipleValuesMasterFilterBarItem1)
         Me.MasterFilterRibbonPageGroup1.ItemLinks.Add(Me.DrillDownBarItem1)
@@ -3561,6 +3410,7 @@ Partial Class frmHome
         '
         'InteractivitySettingsRibbonPageGroup2
         '
+        Me.InteractivitySettingsRibbonPageGroup2.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.InteractivitySettingsRibbonPageGroup2.ItemLinks.Add(Me.CrossDataSourceFilteringBarItem1)
         Me.InteractivitySettingsRibbonPageGroup2.ItemLinks.Add(Me.IgnoreMasterFiltersBarItem1)
         Me.InteractivitySettingsRibbonPageGroup2.Name = "InteractivitySettingsRibbonPageGroup2"
@@ -3573,12 +3423,14 @@ Partial Class frmHome
         '
         'CommonItemDesignRibbonPageGroup1
         '
+        Me.CommonItemDesignRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.CommonItemDesignRibbonPageGroup1.ItemLinks.Add(Me.ShowItemCaptionBarItem1)
         Me.CommonItemDesignRibbonPageGroup1.ItemLinks.Add(Me.EditItemNamesBarItem1)
         Me.CommonItemDesignRibbonPageGroup1.Name = "CommonItemDesignRibbonPageGroup1"
         '
         'GridStyleRibbonPageGroup1
         '
+        Me.GridStyleRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.GridStyleRibbonPageGroup1.ItemLinks.Add(Me.GridHorizontalLinesBarItem1)
         Me.GridStyleRibbonPageGroup1.ItemLinks.Add(Me.GridVerticalLinesBarItem1)
         Me.GridStyleRibbonPageGroup1.ItemLinks.Add(Me.GridBandedRowsBarItem1)
@@ -3586,6 +3438,7 @@ Partial Class frmHome
         '
         'GridLayoutRibbonPageGroup1
         '
+        Me.GridLayoutRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.GridLayoutRibbonPageGroup1.ItemLinks.Add(Me.GridMergeCellsBarItem1)
         Me.GridLayoutRibbonPageGroup1.ItemLinks.Add(Me.GridColumnHeadersBarItem1)
         Me.GridLayoutRibbonPageGroup1.ItemLinks.Add(Me.GridWordWrapBarItem1)
@@ -3593,6 +3446,7 @@ Partial Class frmHome
         '
         'GridColumnWidthModeRibbonPageGroup1
         '
+        Me.GridColumnWidthModeRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.GridColumnWidthModeRibbonPageGroup1.ItemLinks.Add(Me.GridAutoFitToContentsColumnWidthModeBarItem1)
         Me.GridColumnWidthModeRibbonPageGroup1.ItemLinks.Add(Me.GridAutoFitToGridColumnWidthModeBarItem1)
         Me.GridColumnWidthModeRibbonPageGroup1.ItemLinks.Add(Me.ManualGridColumnWidthModeBarItem1)
@@ -3613,12 +3467,14 @@ Partial Class frmHome
         '
         'FilteringRibbonPageGroup3
         '
+        Me.FilteringRibbonPageGroup3.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.FilteringRibbonPageGroup3.ItemLinks.Add(Me.EditFilterBarItem1)
         Me.FilteringRibbonPageGroup3.ItemLinks.Add(Me.ClearFilterBarItem1)
         Me.FilteringRibbonPageGroup3.Name = "FilteringRibbonPageGroup3"
         '
         'MasterFilterRibbonPageGroup2
         '
+        Me.MasterFilterRibbonPageGroup2.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.MasterFilterRibbonPageGroup2.ItemLinks.Add(Me.MasterFilterBarItem1)
         Me.MasterFilterRibbonPageGroup2.ItemLinks.Add(Me.MultipleValuesMasterFilterBarItem1)
         Me.MasterFilterRibbonPageGroup2.ItemLinks.Add(Me.DrillDownBarItem1)
@@ -3626,12 +3482,14 @@ Partial Class frmHome
         '
         'InteractivitySettingsRibbonPageGroup3
         '
+        Me.InteractivitySettingsRibbonPageGroup3.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.InteractivitySettingsRibbonPageGroup3.ItemLinks.Add(Me.CrossDataSourceFilteringBarItem1)
         Me.InteractivitySettingsRibbonPageGroup3.ItemLinks.Add(Me.IgnoreMasterFiltersBarItem1)
         Me.InteractivitySettingsRibbonPageGroup3.Name = "InteractivitySettingsRibbonPageGroup3"
         '
         'TargetDimensionsRibbonPageGroup1
         '
+        Me.TargetDimensionsRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.TargetDimensionsRibbonPageGroup1.ItemLinks.Add(Me.ChartTargetDimensionsArgumentsBarItem1)
         Me.TargetDimensionsRibbonPageGroup1.ItemLinks.Add(Me.ChartTargetDimensionsSeriesBarItem1)
         Me.TargetDimensionsRibbonPageGroup1.ItemLinks.Add(Me.ChartTargetDimensionsPointsBarItem1)
@@ -3645,12 +3503,14 @@ Partial Class frmHome
         '
         'CommonItemDesignRibbonPageGroup2
         '
+        Me.CommonItemDesignRibbonPageGroup2.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.CommonItemDesignRibbonPageGroup2.ItemLinks.Add(Me.ShowItemCaptionBarItem1)
         Me.CommonItemDesignRibbonPageGroup2.ItemLinks.Add(Me.EditItemNamesBarItem1)
         Me.CommonItemDesignRibbonPageGroup2.Name = "CommonItemDesignRibbonPageGroup2"
         '
         'ChartLayoutPageGroup1
         '
+        Me.ChartLayoutPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.ChartLayoutPageGroup1.ItemLinks.Add(Me.ChartRotateBarItem1)
         Me.ChartLayoutPageGroup1.ItemLinks.Add(Me.ChartXAxisSettingsBarItem1)
         Me.ChartLayoutPageGroup1.ItemLinks.Add(Me.ChartYAxisSettingsBarItem1)
@@ -3658,17 +3518,20 @@ Partial Class frmHome
         '
         'ChartLegendPositionPageGroup1
         '
+        Me.ChartLegendPositionPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.ChartLegendPositionPageGroup1.ItemLinks.Add(Me.ChartShowLegendBarItem1)
         Me.ChartLegendPositionPageGroup1.ItemLinks.Add(Me.GalleryChartLegendPositionItem1)
         Me.ChartLegendPositionPageGroup1.Name = "ChartLegendPositionPageGroup1"
         '
         'ChartStylePageGroup1
         '
+        Me.ChartStylePageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.ChartStylePageGroup1.ItemLinks.Add(Me.GalleryChartSeriesTypeItem1)
         Me.ChartStylePageGroup1.Name = "ChartStylePageGroup1"
         '
         'ColoringOptionsRibbonPageGroup1
         '
+        Me.ColoringOptionsRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.ColoringOptionsRibbonPageGroup1.ItemLinks.Add(Me.UseGlobalColorsBarItem1)
         Me.ColoringOptionsRibbonPageGroup1.ItemLinks.Add(Me.UseLocalColorsBarItem1)
         Me.ColoringOptionsRibbonPageGroup1.ItemLinks.Add(Me.EditActualColorsBarItem1)
@@ -3689,12 +3552,14 @@ Partial Class frmHome
         '
         'FilteringRibbonPageGroup4
         '
+        Me.FilteringRibbonPageGroup4.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.FilteringRibbonPageGroup4.ItemLinks.Add(Me.EditFilterBarItem1)
         Me.FilteringRibbonPageGroup4.ItemLinks.Add(Me.ClearFilterBarItem1)
         Me.FilteringRibbonPageGroup4.Name = "FilteringRibbonPageGroup4"
         '
         'MasterFilterRibbonPageGroup3
         '
+        Me.MasterFilterRibbonPageGroup3.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.MasterFilterRibbonPageGroup3.ItemLinks.Add(Me.MasterFilterBarItem1)
         Me.MasterFilterRibbonPageGroup3.ItemLinks.Add(Me.MultipleValuesMasterFilterBarItem1)
         Me.MasterFilterRibbonPageGroup3.ItemLinks.Add(Me.DrillDownBarItem1)
@@ -3702,6 +3567,7 @@ Partial Class frmHome
         '
         'InteractivitySettingsRibbonPageGroup4
         '
+        Me.InteractivitySettingsRibbonPageGroup4.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.InteractivitySettingsRibbonPageGroup4.ItemLinks.Add(Me.CrossDataSourceFilteringBarItem1)
         Me.InteractivitySettingsRibbonPageGroup4.ItemLinks.Add(Me.IgnoreMasterFiltersBarItem1)
         Me.InteractivitySettingsRibbonPageGroup4.Name = "InteractivitySettingsRibbonPageGroup4"
@@ -3714,12 +3580,14 @@ Partial Class frmHome
         '
         'CommonItemDesignRibbonPageGroup3
         '
+        Me.CommonItemDesignRibbonPageGroup3.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.CommonItemDesignRibbonPageGroup3.ItemLinks.Add(Me.ShowItemCaptionBarItem1)
         Me.CommonItemDesignRibbonPageGroup3.ItemLinks.Add(Me.EditItemNamesBarItem1)
         Me.CommonItemDesignRibbonPageGroup3.Name = "CommonItemDesignRibbonPageGroup3"
         '
         'ScatterChartLayoutPageGroup1
         '
+        Me.ScatterChartLayoutPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.ScatterChartLayoutPageGroup1.ItemLinks.Add(Me.ScatterChartRotateBarItem1)
         Me.ScatterChartLayoutPageGroup1.ItemLinks.Add(Me.ScatterChartXAxisSettingsBarItem1)
         Me.ScatterChartLayoutPageGroup1.ItemLinks.Add(Me.ScatterChartYAxisSettingsBarItem1)
@@ -3727,17 +3595,20 @@ Partial Class frmHome
         '
         'ScatterChartPointLabelPageGroup1
         '
+        Me.ScatterChartPointLabelPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.ScatterChartPointLabelPageGroup1.ItemLinks.Add(Me.ScatterChartPointLabelOptionsBarItem1)
         Me.ScatterChartPointLabelPageGroup1.Name = "ScatterChartPointLabelPageGroup1"
         '
         'ScatterChartLegendPositionPageGroup1
         '
+        Me.ScatterChartLegendPositionPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.ScatterChartLegendPositionPageGroup1.ItemLinks.Add(Me.ScatterChartShowLegendBarItem1)
         Me.ScatterChartLegendPositionPageGroup1.ItemLinks.Add(Me.GalleryScatterChartLegendPositionItem1)
         Me.ScatterChartLegendPositionPageGroup1.Name = "ScatterChartLegendPositionPageGroup1"
         '
         'ColoringOptionsRibbonPageGroup2
         '
+        Me.ColoringOptionsRibbonPageGroup2.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.ColoringOptionsRibbonPageGroup2.ItemLinks.Add(Me.UseGlobalColorsBarItem1)
         Me.ColoringOptionsRibbonPageGroup2.ItemLinks.Add(Me.UseLocalColorsBarItem1)
         Me.ColoringOptionsRibbonPageGroup2.ItemLinks.Add(Me.EditActualColorsBarItem1)
@@ -3758,12 +3629,14 @@ Partial Class frmHome
         '
         'FilteringRibbonPageGroup5
         '
+        Me.FilteringRibbonPageGroup5.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.FilteringRibbonPageGroup5.ItemLinks.Add(Me.EditFilterBarItem1)
         Me.FilteringRibbonPageGroup5.ItemLinks.Add(Me.ClearFilterBarItem1)
         Me.FilteringRibbonPageGroup5.Name = "FilteringRibbonPageGroup5"
         '
         'MasterFilterRibbonPageGroup4
         '
+        Me.MasterFilterRibbonPageGroup4.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.MasterFilterRibbonPageGroup4.ItemLinks.Add(Me.MasterFilterBarItem1)
         Me.MasterFilterRibbonPageGroup4.ItemLinks.Add(Me.MultipleValuesMasterFilterBarItem1)
         Me.MasterFilterRibbonPageGroup4.ItemLinks.Add(Me.DrillDownBarItem1)
@@ -3771,12 +3644,14 @@ Partial Class frmHome
         '
         'InteractivitySettingsRibbonPageGroup5
         '
+        Me.InteractivitySettingsRibbonPageGroup5.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.InteractivitySettingsRibbonPageGroup5.ItemLinks.Add(Me.CrossDataSourceFilteringBarItem1)
         Me.InteractivitySettingsRibbonPageGroup5.ItemLinks.Add(Me.IgnoreMasterFiltersBarItem1)
         Me.InteractivitySettingsRibbonPageGroup5.Name = "InteractivitySettingsRibbonPageGroup5"
         '
         'TargetDimensionsRibbonPageGroup2
         '
+        Me.TargetDimensionsRibbonPageGroup2.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.TargetDimensionsRibbonPageGroup2.ItemLinks.Add(Me.PieTargetDimensionsArgumentsBarItem1)
         Me.TargetDimensionsRibbonPageGroup2.ItemLinks.Add(Me.PieTargetDimensionsSeriesBarItem1)
         Me.TargetDimensionsRibbonPageGroup2.ItemLinks.Add(Me.PieTargetDimensionsPointsBarItem1)
@@ -3790,12 +3665,14 @@ Partial Class frmHome
         '
         'CommonItemDesignRibbonPageGroup4
         '
+        Me.CommonItemDesignRibbonPageGroup4.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.CommonItemDesignRibbonPageGroup4.ItemLinks.Add(Me.ShowItemCaptionBarItem1)
         Me.CommonItemDesignRibbonPageGroup4.ItemLinks.Add(Me.EditItemNamesBarItem1)
         Me.CommonItemDesignRibbonPageGroup4.Name = "CommonItemDesignRibbonPageGroup4"
         '
         'ContentArrangementRibbonPageGroup1
         '
+        Me.ContentArrangementRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.ContentArrangementRibbonPageGroup1.ItemLinks.Add(Me.ContentAutoArrangeBarItem1)
         Me.ContentArrangementRibbonPageGroup1.ItemLinks.Add(Me.ContentArrangeInColumnsBarItem1)
         Me.ContentArrangementRibbonPageGroup1.ItemLinks.Add(Me.ContentArrangeInRowsBarItem1)
@@ -3804,6 +3681,7 @@ Partial Class frmHome
         '
         'PieLabelsRibbonPageGroup1
         '
+        Me.PieLabelsRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.PieLabelsRibbonPageGroup1.ItemLinks.Add(Me.PieLabelsDataLabelsBarItem1)
         Me.PieLabelsRibbonPageGroup1.ItemLinks.Add(Me.PieTooltipsBarItem1)
         Me.PieLabelsRibbonPageGroup1.ItemLinks.Add(Me.PieShowCaptionsBarItem1)
@@ -3811,12 +3689,14 @@ Partial Class frmHome
         '
         'PieStyleRibbonPageGroup1
         '
+        Me.PieStyleRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.PieStyleRibbonPageGroup1.ItemLinks.Add(Me.PieStylePieBarItem1)
         Me.PieStyleRibbonPageGroup1.ItemLinks.Add(Me.PieStyleDonutBarItem1)
         Me.PieStyleRibbonPageGroup1.Name = "PieStyleRibbonPageGroup1"
         '
         'ColoringOptionsRibbonPageGroup3
         '
+        Me.ColoringOptionsRibbonPageGroup3.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.ColoringOptionsRibbonPageGroup3.ItemLinks.Add(Me.UseGlobalColorsBarItem1)
         Me.ColoringOptionsRibbonPageGroup3.ItemLinks.Add(Me.UseLocalColorsBarItem1)
         Me.ColoringOptionsRibbonPageGroup3.ItemLinks.Add(Me.EditActualColorsBarItem1)
@@ -3837,12 +3717,14 @@ Partial Class frmHome
         '
         'FilteringRibbonPageGroup6
         '
+        Me.FilteringRibbonPageGroup6.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.FilteringRibbonPageGroup6.ItemLinks.Add(Me.EditFilterBarItem1)
         Me.FilteringRibbonPageGroup6.ItemLinks.Add(Me.ClearFilterBarItem1)
         Me.FilteringRibbonPageGroup6.Name = "FilteringRibbonPageGroup6"
         '
         'MasterFilterRibbonPageGroup5
         '
+        Me.MasterFilterRibbonPageGroup5.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.MasterFilterRibbonPageGroup5.ItemLinks.Add(Me.MasterFilterBarItem1)
         Me.MasterFilterRibbonPageGroup5.ItemLinks.Add(Me.MultipleValuesMasterFilterBarItem1)
         Me.MasterFilterRibbonPageGroup5.ItemLinks.Add(Me.DrillDownBarItem1)
@@ -3850,6 +3732,7 @@ Partial Class frmHome
         '
         'InteractivitySettingsRibbonPageGroup6
         '
+        Me.InteractivitySettingsRibbonPageGroup6.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.InteractivitySettingsRibbonPageGroup6.ItemLinks.Add(Me.CrossDataSourceFilteringBarItem1)
         Me.InteractivitySettingsRibbonPageGroup6.ItemLinks.Add(Me.IgnoreMasterFiltersBarItem1)
         Me.InteractivitySettingsRibbonPageGroup6.Name = "InteractivitySettingsRibbonPageGroup6"
@@ -3862,12 +3745,14 @@ Partial Class frmHome
         '
         'CommonItemDesignRibbonPageGroup5
         '
+        Me.CommonItemDesignRibbonPageGroup5.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.CommonItemDesignRibbonPageGroup5.ItemLinks.Add(Me.ShowItemCaptionBarItem1)
         Me.CommonItemDesignRibbonPageGroup5.ItemLinks.Add(Me.EditItemNamesBarItem1)
         Me.CommonItemDesignRibbonPageGroup5.Name = "CommonItemDesignRibbonPageGroup5"
         '
         'ContentArrangementRibbonPageGroup2
         '
+        Me.ContentArrangementRibbonPageGroup2.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.ContentArrangementRibbonPageGroup2.ItemLinks.Add(Me.ContentAutoArrangeBarItem1)
         Me.ContentArrangementRibbonPageGroup2.ItemLinks.Add(Me.ContentArrangeInColumnsBarItem1)
         Me.ContentArrangementRibbonPageGroup2.ItemLinks.Add(Me.ContentArrangeInRowsBarItem1)
@@ -3876,6 +3761,7 @@ Partial Class frmHome
         '
         'GaugeStyleRibbonPageGroup1
         '
+        Me.GaugeStyleRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.GaugeStyleRibbonPageGroup1.ItemLinks.Add(Me.GaugeStyleFullCircularBarItem1)
         Me.GaugeStyleRibbonPageGroup1.ItemLinks.Add(Me.GaugeStyleHalfCircularBarItem1)
         Me.GaugeStyleRibbonPageGroup1.ItemLinks.Add(Me.GaugeStyleLeftQuarterCircularBarItem1)
@@ -3887,6 +3773,7 @@ Partial Class frmHome
         '
         'GaugesLabelsRibbonPageGroup1
         '
+        Me.GaugesLabelsRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.GaugesLabelsRibbonPageGroup1.ItemLinks.Add(Me.GaugeShowCaptionsBarItem1)
         Me.GaugesLabelsRibbonPageGroup1.Name = "GaugesLabelsRibbonPageGroup1"
         '
@@ -3905,12 +3792,14 @@ Partial Class frmHome
         '
         'FilteringRibbonPageGroup7
         '
+        Me.FilteringRibbonPageGroup7.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.FilteringRibbonPageGroup7.ItemLinks.Add(Me.EditFilterBarItem1)
         Me.FilteringRibbonPageGroup7.ItemLinks.Add(Me.ClearFilterBarItem1)
         Me.FilteringRibbonPageGroup7.Name = "FilteringRibbonPageGroup7"
         '
         'MasterFilterRibbonPageGroup6
         '
+        Me.MasterFilterRibbonPageGroup6.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.MasterFilterRibbonPageGroup6.ItemLinks.Add(Me.MasterFilterBarItem1)
         Me.MasterFilterRibbonPageGroup6.ItemLinks.Add(Me.MultipleValuesMasterFilterBarItem1)
         Me.MasterFilterRibbonPageGroup6.ItemLinks.Add(Me.DrillDownBarItem1)
@@ -3918,6 +3807,7 @@ Partial Class frmHome
         '
         'InteractivitySettingsRibbonPageGroup7
         '
+        Me.InteractivitySettingsRibbonPageGroup7.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.InteractivitySettingsRibbonPageGroup7.ItemLinks.Add(Me.CrossDataSourceFilteringBarItem1)
         Me.InteractivitySettingsRibbonPageGroup7.ItemLinks.Add(Me.IgnoreMasterFiltersBarItem1)
         Me.InteractivitySettingsRibbonPageGroup7.Name = "InteractivitySettingsRibbonPageGroup7"
@@ -3930,12 +3820,14 @@ Partial Class frmHome
         '
         'CommonItemDesignRibbonPageGroup6
         '
+        Me.CommonItemDesignRibbonPageGroup6.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.CommonItemDesignRibbonPageGroup6.ItemLinks.Add(Me.ShowItemCaptionBarItem1)
         Me.CommonItemDesignRibbonPageGroup6.ItemLinks.Add(Me.EditItemNamesBarItem1)
         Me.CommonItemDesignRibbonPageGroup6.Name = "CommonItemDesignRibbonPageGroup6"
         '
         'ContentArrangementRibbonPageGroup3
         '
+        Me.ContentArrangementRibbonPageGroup3.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.ContentArrangementRibbonPageGroup3.ItemLinks.Add(Me.ContentAutoArrangeBarItem1)
         Me.ContentArrangementRibbonPageGroup3.ItemLinks.Add(Me.ContentArrangeInColumnsBarItem1)
         Me.ContentArrangementRibbonPageGroup3.ItemLinks.Add(Me.ContentArrangeInRowsBarItem1)
@@ -3957,12 +3849,14 @@ Partial Class frmHome
         '
         'FilteringRibbonPageGroup8
         '
+        Me.FilteringRibbonPageGroup8.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.FilteringRibbonPageGroup8.ItemLinks.Add(Me.EditFilterBarItem1)
         Me.FilteringRibbonPageGroup8.ItemLinks.Add(Me.ClearFilterBarItem1)
         Me.FilteringRibbonPageGroup8.Name = "FilteringRibbonPageGroup8"
         '
         'InteractivitySettingsRibbonPageGroup8
         '
+        Me.InteractivitySettingsRibbonPageGroup8.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.InteractivitySettingsRibbonPageGroup8.ItemLinks.Add(Me.CrossDataSourceFilteringBarItem1)
         Me.InteractivitySettingsRibbonPageGroup8.ItemLinks.Add(Me.IgnoreMasterFiltersBarItem1)
         Me.InteractivitySettingsRibbonPageGroup8.Name = "InteractivitySettingsRibbonPageGroup8"
@@ -3975,22 +3869,26 @@ Partial Class frmHome
         '
         'CommonItemDesignRibbonPageGroup10
         '
+        Me.CommonItemDesignRibbonPageGroup10.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.CommonItemDesignRibbonPageGroup10.ItemLinks.Add(Me.ShowItemCaptionBarItem1)
         Me.CommonItemDesignRibbonPageGroup10.ItemLinks.Add(Me.EditItemNamesBarItem1)
         Me.CommonItemDesignRibbonPageGroup10.Name = "CommonItemDesignRibbonPageGroup10"
         '
         'RangeFilterSeriesTypeRibbonPageGroup1
         '
+        Me.RangeFilterSeriesTypeRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.RangeFilterSeriesTypeRibbonPageGroup1.ItemLinks.Add(Me.GalleryRangeFilterSeriesTypeItem1)
         Me.RangeFilterSeriesTypeRibbonPageGroup1.Name = "RangeFilterSeriesTypeRibbonPageGroup1"
         '
         'RangeFilterInteractivityRibbonPageGroup1
         '
+        Me.RangeFilterInteractivityRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.RangeFilterInteractivityRibbonPageGroup1.ItemLinks.Add(Me.RangeFilterEditDateTimePeriodsBarItem1)
         Me.RangeFilterInteractivityRibbonPageGroup1.Name = "RangeFilterInteractivityRibbonPageGroup1"
         '
         'ColoringOptionsRibbonPageGroup4
         '
+        Me.ColoringOptionsRibbonPageGroup4.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.ColoringOptionsRibbonPageGroup4.ItemLinks.Add(Me.UseGlobalColorsBarItem1)
         Me.ColoringOptionsRibbonPageGroup4.ItemLinks.Add(Me.UseLocalColorsBarItem1)
         Me.ColoringOptionsRibbonPageGroup4.ItemLinks.Add(Me.EditActualColorsBarItem1)
@@ -4011,18 +3909,21 @@ Partial Class frmHome
         '
         'FilteringRibbonPageGroup9
         '
+        Me.FilteringRibbonPageGroup9.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.FilteringRibbonPageGroup9.ItemLinks.Add(Me.EditFilterBarItem1)
         Me.FilteringRibbonPageGroup9.ItemLinks.Add(Me.ClearFilterBarItem1)
         Me.FilteringRibbonPageGroup9.Name = "FilteringRibbonPageGroup9"
         '
         'MasterFilterRibbonPageGroup7
         '
+        Me.MasterFilterRibbonPageGroup7.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.MasterFilterRibbonPageGroup7.ItemLinks.Add(Me.MasterFilterBarItem1)
         Me.MasterFilterRibbonPageGroup7.ItemLinks.Add(Me.MultipleValuesMasterFilterBarItem1)
         Me.MasterFilterRibbonPageGroup7.Name = "MasterFilterRibbonPageGroup7"
         '
         'InteractivitySettingsRibbonPageGroup9
         '
+        Me.InteractivitySettingsRibbonPageGroup9.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.InteractivitySettingsRibbonPageGroup9.ItemLinks.Add(Me.CrossDataSourceFilteringBarItem1)
         Me.InteractivitySettingsRibbonPageGroup9.ItemLinks.Add(Me.IgnoreMasterFiltersBarItem1)
         Me.InteractivitySettingsRibbonPageGroup9.Name = "InteractivitySettingsRibbonPageGroup9"
@@ -4035,12 +3936,14 @@ Partial Class frmHome
         '
         'CommonItemDesignRibbonPageGroup12
         '
+        Me.CommonItemDesignRibbonPageGroup12.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.CommonItemDesignRibbonPageGroup12.ItemLinks.Add(Me.ShowItemCaptionBarItem1)
         Me.CommonItemDesignRibbonPageGroup12.ItemLinks.Add(Me.EditItemNamesBarItem1)
         Me.CommonItemDesignRibbonPageGroup12.Name = "CommonItemDesignRibbonPageGroup12"
         '
         'MapShapefileRibbonPageGroup1
         '
+        Me.MapShapefileRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.MapShapefileRibbonPageGroup1.ItemLinks.Add(Me.MapLoadBarItem1)
         Me.MapShapefileRibbonPageGroup1.ItemLinks.Add(Me.MapImportBarItem1)
         Me.MapShapefileRibbonPageGroup1.ItemLinks.Add(Me.MapDefaultShapefileBarItem1)
@@ -4048,17 +3951,20 @@ Partial Class frmHome
         '
         'MapNavigationPageGroup1
         '
+        Me.MapNavigationPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.MapNavigationPageGroup1.ItemLinks.Add(Me.MapLockNavigationBarItem1)
         Me.MapNavigationPageGroup1.ItemLinks.Add(Me.MapFullExtentBarItem1)
         Me.MapNavigationPageGroup1.Name = "MapNavigationPageGroup1"
         '
         'MapShapeLabelsAttributePageGroup1
         '
+        Me.MapShapeLabelsAttributePageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.MapShapeLabelsAttributePageGroup1.ItemLinks.Add(Me.ChoroplethMapShapeLabelsAttributeBarItem1)
         Me.MapShapeLabelsAttributePageGroup1.Name = "MapShapeLabelsAttributePageGroup1"
         '
         'MapLegendPositionPageGroup1
         '
+        Me.MapLegendPositionPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.MapLegendPositionPageGroup1.ItemLinks.Add(Me.MapShowLegendBarItem1)
         Me.MapLegendPositionPageGroup1.ItemLinks.Add(Me.GalleryMapLegendPositionItem1)
         Me.MapLegendPositionPageGroup1.Name = "MapLegendPositionPageGroup1"
@@ -4078,24 +3984,28 @@ Partial Class frmHome
         '
         'FilteringRibbonPageGroup10
         '
+        Me.FilteringRibbonPageGroup10.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.FilteringRibbonPageGroup10.ItemLinks.Add(Me.EditFilterBarItem1)
         Me.FilteringRibbonPageGroup10.ItemLinks.Add(Me.ClearFilterBarItem1)
         Me.FilteringRibbonPageGroup10.Name = "FilteringRibbonPageGroup10"
         '
         'MasterFilterRibbonPageGroup8
         '
+        Me.MasterFilterRibbonPageGroup8.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.MasterFilterRibbonPageGroup8.ItemLinks.Add(Me.MasterFilterBarItem1)
         Me.MasterFilterRibbonPageGroup8.ItemLinks.Add(Me.MultipleValuesMasterFilterBarItem1)
         Me.MasterFilterRibbonPageGroup8.Name = "MasterFilterRibbonPageGroup8"
         '
         'InteractivitySettingsRibbonPageGroup10
         '
+        Me.InteractivitySettingsRibbonPageGroup10.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.InteractivitySettingsRibbonPageGroup10.ItemLinks.Add(Me.CrossDataSourceFilteringBarItem1)
         Me.InteractivitySettingsRibbonPageGroup10.ItemLinks.Add(Me.IgnoreMasterFiltersBarItem1)
         Me.InteractivitySettingsRibbonPageGroup10.Name = "InteractivitySettingsRibbonPageGroup10"
         '
         'GeoPointMapClusterizationRibbonPageGroup1
         '
+        Me.GeoPointMapClusterizationRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.GeoPointMapClusterizationRibbonPageGroup1.ItemLinks.Add(Me.GeoPointMapClusterizationBarItem1)
         Me.GeoPointMapClusterizationRibbonPageGroup1.Name = "GeoPointMapClusterizationRibbonPageGroup1"
         '
@@ -4107,12 +4017,14 @@ Partial Class frmHome
         '
         'CommonItemDesignRibbonPageGroup13
         '
+        Me.CommonItemDesignRibbonPageGroup13.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.CommonItemDesignRibbonPageGroup13.ItemLinks.Add(Me.ShowItemCaptionBarItem1)
         Me.CommonItemDesignRibbonPageGroup13.ItemLinks.Add(Me.EditItemNamesBarItem1)
         Me.CommonItemDesignRibbonPageGroup13.Name = "CommonItemDesignRibbonPageGroup13"
         '
         'MapShapefileRibbonPageGroup2
         '
+        Me.MapShapefileRibbonPageGroup2.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.MapShapefileRibbonPageGroup2.ItemLinks.Add(Me.MapLoadBarItem1)
         Me.MapShapefileRibbonPageGroup2.ItemLinks.Add(Me.MapImportBarItem1)
         Me.MapShapefileRibbonPageGroup2.ItemLinks.Add(Me.MapDefaultShapefileBarItem1)
@@ -4120,12 +4032,14 @@ Partial Class frmHome
         '
         'MapNavigationPageGroup2
         '
+        Me.MapNavigationPageGroup2.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.MapNavigationPageGroup2.ItemLinks.Add(Me.MapLockNavigationBarItem1)
         Me.MapNavigationPageGroup2.ItemLinks.Add(Me.MapFullExtentBarItem1)
         Me.MapNavigationPageGroup2.Name = "MapNavigationPageGroup2"
         '
         'MapShapeLabelsAttributePageGroup2
         '
+        Me.MapShapeLabelsAttributePageGroup2.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.MapShapeLabelsAttributePageGroup2.ItemLinks.Add(Me.MapShapeTitleAttributeBarItem1)
         Me.MapShapeLabelsAttributePageGroup2.Name = "MapShapeLabelsAttributePageGroup2"
         '
@@ -4144,24 +4058,28 @@ Partial Class frmHome
         '
         'FilteringRibbonPageGroup11
         '
+        Me.FilteringRibbonPageGroup11.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.FilteringRibbonPageGroup11.ItemLinks.Add(Me.EditFilterBarItem1)
         Me.FilteringRibbonPageGroup11.ItemLinks.Add(Me.ClearFilterBarItem1)
         Me.FilteringRibbonPageGroup11.Name = "FilteringRibbonPageGroup11"
         '
         'MasterFilterRibbonPageGroup9
         '
+        Me.MasterFilterRibbonPageGroup9.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.MasterFilterRibbonPageGroup9.ItemLinks.Add(Me.MasterFilterBarItem1)
         Me.MasterFilterRibbonPageGroup9.ItemLinks.Add(Me.MultipleValuesMasterFilterBarItem1)
         Me.MasterFilterRibbonPageGroup9.Name = "MasterFilterRibbonPageGroup9"
         '
         'InteractivitySettingsRibbonPageGroup11
         '
+        Me.InteractivitySettingsRibbonPageGroup11.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.InteractivitySettingsRibbonPageGroup11.ItemLinks.Add(Me.CrossDataSourceFilteringBarItem1)
         Me.InteractivitySettingsRibbonPageGroup11.ItemLinks.Add(Me.IgnoreMasterFiltersBarItem1)
         Me.InteractivitySettingsRibbonPageGroup11.Name = "InteractivitySettingsRibbonPageGroup11"
         '
         'GeoPointMapClusterizationRibbonPageGroup2
         '
+        Me.GeoPointMapClusterizationRibbonPageGroup2.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.GeoPointMapClusterizationRibbonPageGroup2.ItemLinks.Add(Me.GeoPointMapClusterizationBarItem1)
         Me.GeoPointMapClusterizationRibbonPageGroup2.Name = "GeoPointMapClusterizationRibbonPageGroup2"
         '
@@ -4173,12 +4091,14 @@ Partial Class frmHome
         '
         'CommonItemDesignRibbonPageGroup14
         '
+        Me.CommonItemDesignRibbonPageGroup14.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.CommonItemDesignRibbonPageGroup14.ItemLinks.Add(Me.ShowItemCaptionBarItem1)
         Me.CommonItemDesignRibbonPageGroup14.ItemLinks.Add(Me.EditItemNamesBarItem1)
         Me.CommonItemDesignRibbonPageGroup14.Name = "CommonItemDesignRibbonPageGroup14"
         '
         'MapShapefileRibbonPageGroup3
         '
+        Me.MapShapefileRibbonPageGroup3.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.MapShapefileRibbonPageGroup3.ItemLinks.Add(Me.MapLoadBarItem1)
         Me.MapShapefileRibbonPageGroup3.ItemLinks.Add(Me.MapImportBarItem1)
         Me.MapShapefileRibbonPageGroup3.ItemLinks.Add(Me.MapDefaultShapefileBarItem1)
@@ -4186,23 +4106,27 @@ Partial Class frmHome
         '
         'MapNavigationPageGroup3
         '
+        Me.MapNavigationPageGroup3.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.MapNavigationPageGroup3.ItemLinks.Add(Me.MapLockNavigationBarItem1)
         Me.MapNavigationPageGroup3.ItemLinks.Add(Me.MapFullExtentBarItem1)
         Me.MapNavigationPageGroup3.Name = "MapNavigationPageGroup3"
         '
         'MapShapeLabelsAttributePageGroup3
         '
+        Me.MapShapeLabelsAttributePageGroup3.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.MapShapeLabelsAttributePageGroup3.ItemLinks.Add(Me.MapShapeTitleAttributeBarItem1)
         Me.MapShapeLabelsAttributePageGroup3.Name = "MapShapeLabelsAttributePageGroup3"
         '
         'MapLegendPositionPageGroup2
         '
+        Me.MapLegendPositionPageGroup2.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.MapLegendPositionPageGroup2.ItemLinks.Add(Me.MapShowLegendBarItem1)
         Me.MapLegendPositionPageGroup2.ItemLinks.Add(Me.GalleryMapLegendPositionItem1)
         Me.MapLegendPositionPageGroup2.Name = "MapLegendPositionPageGroup2"
         '
         'WeightedLegendPageGroup1
         '
+        Me.WeightedLegendPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.WeightedLegendPageGroup1.ItemLinks.Add(Me.ChangeWeightedLegendTypeBarItem1)
         Me.WeightedLegendPageGroup1.ItemLinks.Add(Me.GalleryWeightedLegendPositionItem1)
         Me.WeightedLegendPageGroup1.Name = "WeightedLegendPageGroup1"
@@ -4222,24 +4146,28 @@ Partial Class frmHome
         '
         'FilteringRibbonPageGroup12
         '
+        Me.FilteringRibbonPageGroup12.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.FilteringRibbonPageGroup12.ItemLinks.Add(Me.EditFilterBarItem1)
         Me.FilteringRibbonPageGroup12.ItemLinks.Add(Me.ClearFilterBarItem1)
         Me.FilteringRibbonPageGroup12.Name = "FilteringRibbonPageGroup12"
         '
         'MasterFilterRibbonPageGroup10
         '
+        Me.MasterFilterRibbonPageGroup10.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.MasterFilterRibbonPageGroup10.ItemLinks.Add(Me.MasterFilterBarItem1)
         Me.MasterFilterRibbonPageGroup10.ItemLinks.Add(Me.MultipleValuesMasterFilterBarItem1)
         Me.MasterFilterRibbonPageGroup10.Name = "MasterFilterRibbonPageGroup10"
         '
         'InteractivitySettingsRibbonPageGroup12
         '
+        Me.InteractivitySettingsRibbonPageGroup12.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.InteractivitySettingsRibbonPageGroup12.ItemLinks.Add(Me.CrossDataSourceFilteringBarItem1)
         Me.InteractivitySettingsRibbonPageGroup12.ItemLinks.Add(Me.IgnoreMasterFiltersBarItem1)
         Me.InteractivitySettingsRibbonPageGroup12.Name = "InteractivitySettingsRibbonPageGroup12"
         '
         'GeoPointMapClusterizationRibbonPageGroup3
         '
+        Me.GeoPointMapClusterizationRibbonPageGroup3.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.GeoPointMapClusterizationRibbonPageGroup3.ItemLinks.Add(Me.GeoPointMapClusterizationBarItem1)
         Me.GeoPointMapClusterizationRibbonPageGroup3.Name = "GeoPointMapClusterizationRibbonPageGroup3"
         '
@@ -4251,12 +4179,14 @@ Partial Class frmHome
         '
         'CommonItemDesignRibbonPageGroup15
         '
+        Me.CommonItemDesignRibbonPageGroup15.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.CommonItemDesignRibbonPageGroup15.ItemLinks.Add(Me.ShowItemCaptionBarItem1)
         Me.CommonItemDesignRibbonPageGroup15.ItemLinks.Add(Me.EditItemNamesBarItem1)
         Me.CommonItemDesignRibbonPageGroup15.Name = "CommonItemDesignRibbonPageGroup15"
         '
         'MapShapefileRibbonPageGroup4
         '
+        Me.MapShapefileRibbonPageGroup4.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.MapShapefileRibbonPageGroup4.ItemLinks.Add(Me.MapLoadBarItem1)
         Me.MapShapefileRibbonPageGroup4.ItemLinks.Add(Me.MapImportBarItem1)
         Me.MapShapefileRibbonPageGroup4.ItemLinks.Add(Me.MapDefaultShapefileBarItem1)
@@ -4264,34 +4194,40 @@ Partial Class frmHome
         '
         'MapNavigationPageGroup4
         '
+        Me.MapNavigationPageGroup4.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.MapNavigationPageGroup4.ItemLinks.Add(Me.MapLockNavigationBarItem1)
         Me.MapNavigationPageGroup4.ItemLinks.Add(Me.MapFullExtentBarItem1)
         Me.MapNavigationPageGroup4.Name = "MapNavigationPageGroup4"
         '
         'MapShapeLabelsAttributePageGroup4
         '
+        Me.MapShapeLabelsAttributePageGroup4.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.MapShapeLabelsAttributePageGroup4.ItemLinks.Add(Me.MapShapeTitleAttributeBarItem1)
         Me.MapShapeLabelsAttributePageGroup4.Name = "MapShapeLabelsAttributePageGroup4"
         '
         'MapLegendPositionPageGroup3
         '
+        Me.MapLegendPositionPageGroup3.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.MapLegendPositionPageGroup3.ItemLinks.Add(Me.MapShowLegendBarItem1)
         Me.MapLegendPositionPageGroup3.ItemLinks.Add(Me.GalleryMapLegendPositionItem1)
         Me.MapLegendPositionPageGroup3.Name = "MapLegendPositionPageGroup3"
         '
         'WeightedLegendPageGroup2
         '
+        Me.WeightedLegendPageGroup2.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.WeightedLegendPageGroup2.ItemLinks.Add(Me.ChangeWeightedLegendTypeBarItem1)
         Me.WeightedLegendPageGroup2.ItemLinks.Add(Me.GalleryWeightedLegendPositionItem1)
         Me.WeightedLegendPageGroup2.Name = "WeightedLegendPageGroup2"
         '
         'PieMapOptionsPageGroup1
         '
+        Me.PieMapOptionsPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.PieMapOptionsPageGroup1.ItemLinks.Add(Me.PieMapIsWeightedBarItem1)
         Me.PieMapOptionsPageGroup1.Name = "PieMapOptionsPageGroup1"
         '
         'ColoringOptionsRibbonPageGroup5
         '
+        Me.ColoringOptionsRibbonPageGroup5.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.ColoringOptionsRibbonPageGroup5.ItemLinks.Add(Me.UseGlobalColorsBarItem1)
         Me.ColoringOptionsRibbonPageGroup5.ItemLinks.Add(Me.UseLocalColorsBarItem1)
         Me.ColoringOptionsRibbonPageGroup5.ItemLinks.Add(Me.EditActualColorsBarItem1)
@@ -4312,12 +4248,14 @@ Partial Class frmHome
         '
         'FilteringRibbonPageGroup13
         '
+        Me.FilteringRibbonPageGroup13.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.FilteringRibbonPageGroup13.ItemLinks.Add(Me.EditFilterBarItem1)
         Me.FilteringRibbonPageGroup13.ItemLinks.Add(Me.ClearFilterBarItem1)
         Me.FilteringRibbonPageGroup13.Name = "FilteringRibbonPageGroup13"
         '
         'InteractivitySettingsRibbonPageGroup13
         '
+        Me.InteractivitySettingsRibbonPageGroup13.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.InteractivitySettingsRibbonPageGroup13.ItemLinks.Add(Me.CrossDataSourceFilteringBarItem1)
         Me.InteractivitySettingsRibbonPageGroup13.ItemLinks.Add(Me.IgnoreMasterFiltersBarItem1)
         Me.InteractivitySettingsRibbonPageGroup13.Name = "InteractivitySettingsRibbonPageGroup13"
@@ -4330,12 +4268,14 @@ Partial Class frmHome
         '
         'CommonItemDesignRibbonPageGroup17
         '
+        Me.CommonItemDesignRibbonPageGroup17.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.CommonItemDesignRibbonPageGroup17.ItemLinks.Add(Me.ShowItemCaptionBarItem1)
         Me.CommonItemDesignRibbonPageGroup17.ItemLinks.Add(Me.EditItemNamesBarItem1)
         Me.CommonItemDesignRibbonPageGroup17.Name = "CommonItemDesignRibbonPageGroup17"
         '
         'FilterElementTypeRibbonPageGroup1
         '
+        Me.FilterElementTypeRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.FilterElementTypeRibbonPageGroup1.ItemLinks.Add(Me.ComboBoxStandardTypeBarItem1)
         Me.FilterElementTypeRibbonPageGroup1.ItemLinks.Add(Me.ComboBoxCheckedTypeBarItem1)
         Me.FilterElementTypeRibbonPageGroup1.ItemLinks.Add(Me.ListBoxCheckedTypeBarItem1)
@@ -4345,12 +4285,14 @@ Partial Class frmHome
         '
         'TreeViewLayoutRibbonPageGroup1
         '
+        Me.TreeViewLayoutRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.TreeViewLayoutRibbonPageGroup1.ItemLinks.Add(Me.TreeViewAutoExpandBarItem1)
         Me.TreeViewLayoutRibbonPageGroup1.Name = "TreeViewLayoutRibbonPageGroup1"
         Me.TreeViewLayoutRibbonPageGroup1.Visible = False
         '
         'FilterElementItemOptionsRibbonPageGroup1
         '
+        Me.FilterElementItemOptionsRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.FilterElementItemOptionsRibbonPageGroup1.ItemLinks.Add(Me.FilterElementShowAllValueBarItem1)
         Me.FilterElementItemOptionsRibbonPageGroup1.Name = "FilterElementItemOptionsRibbonPageGroup1"
         Me.FilterElementItemOptionsRibbonPageGroup1.Visible = False
@@ -4370,12 +4312,14 @@ Partial Class frmHome
         '
         'FilteringRibbonPageGroup14
         '
+        Me.FilteringRibbonPageGroup14.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.FilteringRibbonPageGroup14.ItemLinks.Add(Me.EditFilterBarItem1)
         Me.FilteringRibbonPageGroup14.ItemLinks.Add(Me.ClearFilterBarItem1)
         Me.FilteringRibbonPageGroup14.Name = "FilteringRibbonPageGroup14"
         '
         'InteractivitySettingsRibbonPageGroup14
         '
+        Me.InteractivitySettingsRibbonPageGroup14.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.InteractivitySettingsRibbonPageGroup14.ItemLinks.Add(Me.IgnoreMasterFiltersBarItem1)
         Me.InteractivitySettingsRibbonPageGroup14.Name = "InteractivitySettingsRibbonPageGroup14"
         '
@@ -4387,12 +4331,14 @@ Partial Class frmHome
         '
         'CommonItemDesignRibbonPageGroup8
         '
+        Me.CommonItemDesignRibbonPageGroup8.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.CommonItemDesignRibbonPageGroup8.ItemLinks.Add(Me.ShowItemCaptionBarItem1)
         Me.CommonItemDesignRibbonPageGroup8.ItemLinks.Add(Me.EditItemNamesBarItem1)
         Me.CommonItemDesignRibbonPageGroup8.Name = "CommonItemDesignRibbonPageGroup8"
         '
         'ImageSizeModeRibbonPageGroup2
         '
+        Me.ImageSizeModeRibbonPageGroup2.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.ImageSizeModeRibbonPageGroup2.ItemLinks.Add(Me.ImageSizeModeClipBarItem1)
         Me.ImageSizeModeRibbonPageGroup2.ItemLinks.Add(Me.ImageSizeModeStretchBarItem1)
         Me.ImageSizeModeRibbonPageGroup2.ItemLinks.Add(Me.ImageSizeModeSqueezeBarItem1)
@@ -4401,6 +4347,7 @@ Partial Class frmHome
         '
         'ImageAlignmentRibbonPageGroup2
         '
+        Me.ImageAlignmentRibbonPageGroup2.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.ImageAlignmentRibbonPageGroup2.ItemLinks.Add(Me.ImageAlignmentTopLeftBarItem1)
         Me.ImageAlignmentRibbonPageGroup2.ItemLinks.Add(Me.ImageAlignmentCenterLeftBarItem1)
         Me.ImageAlignmentRibbonPageGroup2.ItemLinks.Add(Me.ImageAlignmentBottomLeftBarItem1)
@@ -4427,12 +4374,14 @@ Partial Class frmHome
         '
         'FilteringRibbonPageGroup15
         '
+        Me.FilteringRibbonPageGroup15.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.FilteringRibbonPageGroup15.ItemLinks.Add(Me.EditFilterBarItem1)
         Me.FilteringRibbonPageGroup15.ItemLinks.Add(Me.ClearFilterBarItem1)
         Me.FilteringRibbonPageGroup15.Name = "FilteringRibbonPageGroup15"
         '
         'InteractivitySettingsRibbonPageGroup15
         '
+        Me.InteractivitySettingsRibbonPageGroup15.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.InteractivitySettingsRibbonPageGroup15.ItemLinks.Add(Me.IgnoreMasterFiltersBarItem1)
         Me.InteractivitySettingsRibbonPageGroup15.Name = "InteractivitySettingsRibbonPageGroup15"
         '
@@ -4444,12 +4393,14 @@ Partial Class frmHome
         '
         'CommonItemDesignRibbonPageGroup9
         '
+        Me.CommonItemDesignRibbonPageGroup9.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.CommonItemDesignRibbonPageGroup9.ItemLinks.Add(Me.ShowItemCaptionBarItem1)
         Me.CommonItemDesignRibbonPageGroup9.ItemLinks.Add(Me.EditItemNamesBarItem1)
         Me.CommonItemDesignRibbonPageGroup9.Name = "CommonItemDesignRibbonPageGroup9"
         '
         'TextBoxEditingRibbonPageGroup1
         '
+        Me.TextBoxEditingRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.TextBoxEditingRibbonPageGroup1.ItemLinks.Add(Me.TextBoxEditTextBarItem1)
         Me.TextBoxEditingRibbonPageGroup1.ItemLinks.Add(Me.TextBoxInsertFieldBarItem1)
         Me.TextBoxEditingRibbonPageGroup1.Name = "TextBoxEditingRibbonPageGroup1"
@@ -4469,6 +4420,7 @@ Partial Class frmHome
         '
         'MasterFilterRibbonPageGroup11
         '
+        Me.MasterFilterRibbonPageGroup11.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.MasterFilterRibbonPageGroup11.ItemLinks.Add(Me.GroupMasterFilterBarItem1)
         Me.MasterFilterRibbonPageGroup11.ItemLinks.Add(Me.GroupIgnoreMasterFilterBarItem1)
         Me.MasterFilterRibbonPageGroup11.Name = "MasterFilterRibbonPageGroup11"
@@ -4481,6 +4433,7 @@ Partial Class frmHome
         '
         'CommonItemDesignRibbonPageGroup16
         '
+        Me.CommonItemDesignRibbonPageGroup16.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.CommonItemDesignRibbonPageGroup16.ItemLinks.Add(Me.ShowItemCaptionBarItem1)
         Me.CommonItemDesignRibbonPageGroup16.ItemLinks.Add(Me.EditItemNamesBarItem1)
         Me.CommonItemDesignRibbonPageGroup16.Name = "CommonItemDesignRibbonPageGroup16"
@@ -4500,18 +4453,21 @@ Partial Class frmHome
         '
         'CommonItemDesignRibbonPageGroup7
         '
+        Me.CommonItemDesignRibbonPageGroup7.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.CommonItemDesignRibbonPageGroup7.ItemLinks.Add(Me.ShowItemCaptionBarItem1)
         Me.CommonItemDesignRibbonPageGroup7.ItemLinks.Add(Me.EditItemNamesBarItem1)
         Me.CommonItemDesignRibbonPageGroup7.Name = "CommonItemDesignRibbonPageGroup7"
         '
         'ImageOpenRibbonPageGroup1
         '
+        Me.ImageOpenRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.ImageOpenRibbonPageGroup1.ItemLinks.Add(Me.ImageLoadBarItem1)
         Me.ImageOpenRibbonPageGroup1.ItemLinks.Add(Me.ImageImportBarItem1)
         Me.ImageOpenRibbonPageGroup1.Name = "ImageOpenRibbonPageGroup1"
         '
         'ImageSizeModeRibbonPageGroup1
         '
+        Me.ImageSizeModeRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.ImageSizeModeRibbonPageGroup1.ItemLinks.Add(Me.ImageSizeModeClipBarItem1)
         Me.ImageSizeModeRibbonPageGroup1.ItemLinks.Add(Me.ImageSizeModeStretchBarItem1)
         Me.ImageSizeModeRibbonPageGroup1.ItemLinks.Add(Me.ImageSizeModeSqueezeBarItem1)
@@ -4520,6 +4476,7 @@ Partial Class frmHome
         '
         'ImageAlignmentRibbonPageGroup1
         '
+        Me.ImageAlignmentRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.ImageAlignmentRibbonPageGroup1.ItemLinks.Add(Me.ImageAlignmentTopLeftBarItem1)
         Me.ImageAlignmentRibbonPageGroup1.ItemLinks.Add(Me.ImageAlignmentCenterLeftBarItem1)
         Me.ImageAlignmentRibbonPageGroup1.ItemLinks.Add(Me.ImageAlignmentBottomLeftBarItem1)
@@ -4545,6 +4502,7 @@ Partial Class frmHome
         '
         'CommonRibbonPageGroup1
         '
+        Me.CommonRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.CommonRibbonPageGroup1.ItemLinks.Add(Me.UndoItem1)
         Me.CommonRibbonPageGroup1.ItemLinks.Add(Me.RedoItem1)
         Me.CommonRibbonPageGroup1.ItemLinks.Add(Me.FileOpenItem1)
@@ -4555,7 +4513,7 @@ Partial Class frmHome
         Me.HomeRibbonPage2.Groups.AddRange(New DevExpress.XtraBars.Ribbon.RibbonPageGroup() {Me.ClipboardRibbonPageGroup1, Me.FontRibbonPageGroup1, Me.ParagraphRibbonPageGroup1, Me.StylesRibbonPageGroup1, Me.EditingRibbonPageGroup1})
         Me.HomeRibbonPage2.Name = "HomeRibbonPage2"
         ReduceOperation1.Behavior = DevExpress.XtraBars.Ribbon.ReduceOperationBehavior.UntilAvailable
-        ReduceOperation1.Group = Me.StylesRibbonPageGroup1
+        ReduceOperation1.GroupName = Nothing
         ReduceOperation1.ItemLinkIndex = 0
         ReduceOperation1.ItemLinksCount = 0
         ReduceOperation1.Operation = DevExpress.XtraBars.Ribbon.ReduceOperationType.Gallery
@@ -4564,6 +4522,7 @@ Partial Class frmHome
         '
         'ClipboardRibbonPageGroup1
         '
+        Me.ClipboardRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.ClipboardRibbonPageGroup1.ItemLinks.Add(Me.PasteItem1)
         Me.ClipboardRibbonPageGroup1.ItemLinks.Add(Me.CutItem1)
         Me.ClipboardRibbonPageGroup1.ItemLinks.Add(Me.CopyItem1)
@@ -4572,6 +4531,7 @@ Partial Class frmHome
         '
         'FontRibbonPageGroup1
         '
+        Me.FontRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.FontRibbonPageGroup1.ItemLinks.Add(Me.BarButtonGroup1)
         Me.FontRibbonPageGroup1.ItemLinks.Add(Me.BarButtonGroup2)
         Me.FontRibbonPageGroup1.ItemLinks.Add(Me.BarButtonGroup3)
@@ -4581,6 +4541,7 @@ Partial Class frmHome
         '
         'ParagraphRibbonPageGroup1
         '
+        Me.ParagraphRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.ParagraphRibbonPageGroup1.ItemLinks.Add(Me.BarButtonGroup4)
         Me.ParagraphRibbonPageGroup1.ItemLinks.Add(Me.BarButtonGroup5)
         Me.ParagraphRibbonPageGroup1.ItemLinks.Add(Me.BarButtonGroup6)
@@ -4589,6 +4550,7 @@ Partial Class frmHome
         '
         'EditingRibbonPageGroup1
         '
+        Me.EditingRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.EditingRibbonPageGroup1.ItemLinks.Add(Me.FindItem1)
         Me.EditingRibbonPageGroup1.ItemLinks.Add(Me.ReplaceItem1)
         Me.EditingRibbonPageGroup1.Name = "EditingRibbonPageGroup1"
@@ -4602,17 +4564,20 @@ Partial Class frmHome
         'TablesRibbonPageGroup1
         '
         Me.TablesRibbonPageGroup1.AllowTextClipping = False
+        Me.TablesRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.TablesRibbonPageGroup1.ItemLinks.Add(Me.InsertTableItem1)
         Me.TablesRibbonPageGroup1.Name = "TablesRibbonPageGroup1"
         '
         'IllustrationsRibbonPageGroup1
         '
+        Me.IllustrationsRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.IllustrationsRibbonPageGroup1.ItemLinks.Add(Me.InsertPictureItem1)
         Me.IllustrationsRibbonPageGroup1.ItemLinks.Add(Me.InsertFloatingPictureItem1)
         Me.IllustrationsRibbonPageGroup1.Name = "IllustrationsRibbonPageGroup1"
         '
         'LinksRibbonPageGroup1
         '
+        Me.LinksRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.LinksRibbonPageGroup1.ItemLinks.Add(Me.InsertBookmarkItem1)
         Me.LinksRibbonPageGroup1.ItemLinks.Add(Me.InsertHyperlinkItem1)
         Me.LinksRibbonPageGroup1.Name = "LinksRibbonPageGroup1"
@@ -4620,6 +4585,7 @@ Partial Class frmHome
         'SymbolsRibbonPageGroup1
         '
         Me.SymbolsRibbonPageGroup1.AllowTextClipping = False
+        Me.SymbolsRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.SymbolsRibbonPageGroup1.ItemLinks.Add(Me.InsertSymbolItem1)
         Me.SymbolsRibbonPageGroup1.Name = "SymbolsRibbonPageGroup1"
         '
@@ -4632,6 +4598,7 @@ Partial Class frmHome
         'PageBackgroundRibbonPageGroup1
         '
         Me.PageBackgroundRibbonPageGroup1.AllowTextClipping = False
+        Me.PageBackgroundRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.PageBackgroundRibbonPageGroup1.ItemLinks.Add(Me.ChangePageColorItem1)
         Me.PageBackgroundRibbonPageGroup1.Name = "PageBackgroundRibbonPageGroup1"
         '
@@ -4643,6 +4610,7 @@ Partial Class frmHome
         '
         'TableStyleOptionsRibbonPageGroup1
         '
+        Me.TableStyleOptionsRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.TableStyleOptionsRibbonPageGroup1.ItemLinks.Add(Me.ToggleFirstRowItem1)
         Me.TableStyleOptionsRibbonPageGroup1.ItemLinks.Add(Me.ToggleLastRowItem1)
         Me.TableStyleOptionsRibbonPageGroup1.ItemLinks.Add(Me.ToggleBandedRowsItem1)
@@ -4653,11 +4621,13 @@ Partial Class frmHome
         '
         'TableStylesRibbonPageGroup1
         '
+        Me.TableStylesRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.TableStylesRibbonPageGroup1.ItemLinks.Add(Me.GalleryChangeTableStyleItem1)
         Me.TableStylesRibbonPageGroup1.Name = "TableStylesRibbonPageGroup1"
         '
         'TableDrawBordersRibbonPageGroup1
         '
+        Me.TableDrawBordersRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.TableDrawBordersRibbonPageGroup1.ItemLinks.Add(Me.ChangeTableBorderLineStyleItem1)
         Me.TableDrawBordersRibbonPageGroup1.ItemLinks.Add(Me.ChangeTableBorderLineWeightItem1)
         Me.TableDrawBordersRibbonPageGroup1.ItemLinks.Add(Me.ChangeTableBorderColorItem1)
@@ -4673,6 +4643,7 @@ Partial Class frmHome
         '
         'TableTableRibbonPageGroup1
         '
+        Me.TableTableRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.TableTableRibbonPageGroup1.ItemLinks.Add(Me.SelectTableElementsItem1)
         Me.TableTableRibbonPageGroup1.ItemLinks.Add(Me.ToggleShowTableGridLinesItem1)
         Me.TableTableRibbonPageGroup1.ItemLinks.Add(Me.ShowTablePropertiesFormItem1)
@@ -4680,6 +4651,7 @@ Partial Class frmHome
         '
         'TableRowsAndColumnsRibbonPageGroup1
         '
+        Me.TableRowsAndColumnsRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.TableRowsAndColumnsRibbonPageGroup1.ItemLinks.Add(Me.DeleteTableElementsItem1)
         Me.TableRowsAndColumnsRibbonPageGroup1.ItemLinks.Add(Me.InsertTableRowAboveItem1)
         Me.TableRowsAndColumnsRibbonPageGroup1.ItemLinks.Add(Me.InsertTableRowBelowItem1)
@@ -4689,6 +4661,7 @@ Partial Class frmHome
         '
         'TableMergeRibbonPageGroup1
         '
+        Me.TableMergeRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.TableMergeRibbonPageGroup1.ItemLinks.Add(Me.MergeTableCellsItem1)
         Me.TableMergeRibbonPageGroup1.ItemLinks.Add(Me.ShowSplitTableCellsForm1)
         Me.TableMergeRibbonPageGroup1.ItemLinks.Add(Me.SplitTableItem1)
@@ -4697,12 +4670,14 @@ Partial Class frmHome
         'TableCellSizeRibbonPageGroup1
         '
         Me.TableCellSizeRibbonPageGroup1.AllowTextClipping = False
+        Me.TableCellSizeRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.TableCellSizeRibbonPageGroup1.ItemLinks.Add(Me.ToggleTableAutoFitItem1)
         Me.TableCellSizeRibbonPageGroup1.Name = "TableCellSizeRibbonPageGroup1"
         '
         'TableAlignmentRibbonPageGroup1
         '
-        Me.TableAlignmentRibbonPageGroup1.Glyph = CType(resources.GetObject("TableAlignmentRibbonPageGroup1.Glyph"), System.Drawing.Image)
+        Me.TableAlignmentRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
+        Me.TableAlignmentRibbonPageGroup1.ImageOptions.Image = CType(resources.GetObject("TableAlignmentRibbonPageGroup1.ImageOptions.Image"), System.Drawing.Image)
         Me.TableAlignmentRibbonPageGroup1.ItemLinks.Add(Me.ToggleTableCellsTopLeftAlignmentItem1)
         Me.TableAlignmentRibbonPageGroup1.ItemLinks.Add(Me.ToggleTableCellsMiddleLeftAlignmentItem1)
         Me.TableAlignmentRibbonPageGroup1.ItemLinks.Add(Me.ToggleTableCellsBottomLeftAlignmentItem1)
@@ -4723,6 +4698,7 @@ Partial Class frmHome
         '
         'FloatingPictureToolsShapeStylesPageGroup1
         '
+        Me.FloatingPictureToolsShapeStylesPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.FloatingPictureToolsShapeStylesPageGroup1.ItemLinks.Add(Me.ChangeFloatingObjectFillColorItem1)
         Me.FloatingPictureToolsShapeStylesPageGroup1.ItemLinks.Add(Me.ChangeFloatingObjectOutlineColorItem1)
         Me.FloatingPictureToolsShapeStylesPageGroup1.ItemLinks.Add(Me.ChangeFloatingObjectOutlineWeightItem1)
@@ -4730,6 +4706,7 @@ Partial Class frmHome
         '
         'FloatingPictureToolsArrangePageGroup1
         '
+        Me.FloatingPictureToolsArrangePageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.FloatingPictureToolsArrangePageGroup1.ItemLinks.Add(Me.ChangeFloatingObjectTextWrapTypeItem1)
         Me.FloatingPictureToolsArrangePageGroup1.ItemLinks.Add(Me.ChangeFloatingObjectAlignmentItem1)
         Me.FloatingPictureToolsArrangePageGroup1.ItemLinks.Add(Me.FloatingObjectBringForwardSubItem1)
@@ -4743,6 +4720,7 @@ Partial Class frmHome
         '
         'FileRibbonPageGroup1
         '
+        Me.FileRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.FileRibbonPageGroup1.ItemLinks.Add(Me.FileNewBarItem1)
         Me.FileRibbonPageGroup1.ItemLinks.Add(Me.FileOpenBarItem1)
         Me.FileRibbonPageGroup1.ItemLinks.Add(Me.FileSaveBarItem1)
@@ -4751,6 +4729,7 @@ Partial Class frmHome
         '
         'QuickAccessHistoryRibbonPageGroup1
         '
+        Me.QuickAccessHistoryRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.QuickAccessHistoryRibbonPageGroup1.ItemLinks.Add(Me.QuickAccessUndoBarItem1)
         Me.QuickAccessHistoryRibbonPageGroup1.ItemLinks.Add(Me.QuickAccessRedoBarItem1)
         Me.QuickAccessHistoryRibbonPageGroup1.Name = "QuickAccessHistoryRibbonPageGroup1"
@@ -4758,12 +4737,14 @@ Partial Class frmHome
         '
         'HistoryRibbonPageGroup1
         '
+        Me.HistoryRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.HistoryRibbonPageGroup1.ItemLinks.Add(Me.UndoBarItem1)
         Me.HistoryRibbonPageGroup1.ItemLinks.Add(Me.RedoBarItem1)
         Me.HistoryRibbonPageGroup1.Name = "HistoryRibbonPageGroup1"
         '
         'InsertRibbonPageGroup1
         '
+        Me.InsertRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.InsertRibbonPageGroup1.ItemLinks.Add(Me.InsertPivotBarItem1)
         Me.InsertRibbonPageGroup1.ItemLinks.Add(Me.InsertGridBarItem1)
         Me.InsertRibbonPageGroup1.ItemLinks.Add(Me.InsertChartBarItem1)
@@ -4782,6 +4763,7 @@ Partial Class frmHome
         '
         'ItemOperationRibbonPageGroup1
         '
+        Me.ItemOperationRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.ItemOperationRibbonPageGroup1.ItemLinks.Add(Me.DuplicateItemBarItem1)
         Me.ItemOperationRibbonPageGroup1.ItemLinks.Add(Me.DeleteItemBarItem1)
         Me.ItemOperationRibbonPageGroup1.ItemLinks.Add(Me.ConvertDashboardItemTypeBarItem1)
@@ -4793,12 +4775,14 @@ Partial Class frmHome
         '
         'GroupOperationRibbonPageGroup1
         '
+        Me.GroupOperationRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.GroupOperationRibbonPageGroup1.ItemLinks.Add(Me.DeleteGroupBarItem1)
         Me.GroupOperationRibbonPageGroup1.Name = "GroupOperationRibbonPageGroup1"
         Me.GroupOperationRibbonPageGroup1.Visible = False
         '
         'DashboardDesignRibbonPageGroup1
         '
+        Me.DashboardDesignRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.DashboardDesignRibbonPageGroup1.ItemLinks.Add(Me.DashboardTitleBarItem1)
         Me.DashboardDesignRibbonPageGroup1.ItemLinks.Add(Me.SetCurrencyCultureBarItem1)
         Me.DashboardDesignRibbonPageGroup1.ItemLinks.Add(Me.DashboardColorSchemeBarItem1)
@@ -4814,6 +4798,7 @@ Partial Class frmHome
         '
         'DataSourceRibbonPageGroup1
         '
+        Me.DataSourceRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.DataSourceRibbonPageGroup1.ItemLinks.Add(Me.NewDataSourceBarItem1)
         Me.DataSourceRibbonPageGroup1.ItemLinks.Add(Me.EditSqlConnectionBarItem1)
         Me.DataSourceRibbonPageGroup1.ItemLinks.Add(Me.EditOlapConnectionBarItem1)
@@ -4830,6 +4815,7 @@ Partial Class frmHome
         '
         'SqlDataSourceQueryRibbonPageGroup1
         '
+        Me.SqlDataSourceQueryRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.SqlDataSourceQueryRibbonPageGroup1.ItemLinks.Add(Me.AddQueryBarItem1)
         Me.SqlDataSourceQueryRibbonPageGroup1.ItemLinks.Add(Me.EditQueryBarItem1)
         Me.SqlDataSourceQueryRibbonPageGroup1.ItemLinks.Add(Me.RenameQueryBarItem1)
@@ -4840,6 +4826,7 @@ Partial Class frmHome
         '
         'ExtractSourceRibbonPageGroup1
         '
+        Me.ExtractSourceRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.ExtractSourceRibbonPageGroup1.ItemLinks.Add(Me.EditExtractSourceConnectionBarItem1)
         Me.ExtractSourceRibbonPageGroup1.ItemLinks.Add(Me.EditExtractSourceBarItem1)
         Me.ExtractSourceRibbonPageGroup1.ItemLinks.Add(Me.EditExtractSourceQueryBarItem1)
@@ -4848,6 +4835,7 @@ Partial Class frmHome
         '
         'DataSourceFilteringRibbonPageGroup1
         '
+        Me.DataSourceFilteringRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.DataSourceFilteringRibbonPageGroup1.ItemLinks.Add(Me.EditDataSourceFilterBarItem1)
         Me.DataSourceFilteringRibbonPageGroup1.ItemLinks.Add(Me.ClearDataSourceFilterBarItem1)
         Me.DataSourceFilteringRibbonPageGroup1.Name = "DataSourceFilteringRibbonPageGroup1"
@@ -4860,6 +4848,7 @@ Partial Class frmHome
         '
         'SkinsRibbonPageGroup1
         '
+        Me.SkinsRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.[False]
         Me.SkinsRibbonPageGroup1.ItemLinks.Add(Me.DashboardSkinsBarItem1)
         Me.SkinsRibbonPageGroup1.Name = "SkinsRibbonPageGroup1"
         '
@@ -5232,11 +5221,12 @@ Partial Class frmHome
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(1184, 662)
+        Me.ClientSize = New System.Drawing.Size(1434, 662)
         Me.Controls.Add(Me.DashboardDesigner1)
         Me.Controls.Add(Me.DashboardBackstageViewControl1)
         Me.Controls.Add(Me.RibbonControl1)
-        Me.Icon = CType(resources.GetObject("$this.Icon"), System.Drawing.Icon)
+        Me.IconOptions.Icon = CType(resources.GetObject("frmHome.IconOptions.Icon"), System.Drawing.Icon)
+        Me.IconOptions.Image = Global.Dashboard.My.Resources.Resources.Cat
         Me.Name = "frmHome"
         Me.Ribbon = Me.RibbonControl1
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
@@ -5247,6 +5237,7 @@ Partial Class frmHome
         Me.DashboardBackstageViewControl1.ResumeLayout(False)
         CType(Me.DashboardBarAndDockingController1, System.ComponentModel.ISupportInitialize).EndInit()
         Me.BackstageViewClientControl1.ResumeLayout(False)
+        CType(Me.DashboardDesigner1, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.DashboardPopupMenu1, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.RepositoryItemSpinEdit1, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.RepositoryItemFontEdit1, System.ComponentModel.ISupportInitialize).EndInit()
